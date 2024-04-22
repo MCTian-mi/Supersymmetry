@@ -10,15 +10,15 @@ class CarbonGlobals {
     // equal amount of carbon/coke/anthracite and 2x coal
     static final int UNIVERSAL_COAL_EQUIVALENT = 90
 
-    trait Combustible {
-        int duration
-    }
+    // trait Combustible {
+    //     int duration
+    // }
 
-    trait HighPurityCombustible extends Combustible {}
+    // trait HighPurityCombustible extends Combustible {}
 
-    trait Pyrolyzable {
-        String pyrolysis_product
-    }
+    // trait Pyrolyzable {
+    //     String pyrolysis_product
+    // }
 
     // Get number of items which would contatin %required% amount of
     // material if single item has %provider% amount
@@ -32,11 +32,15 @@ class CarbonGlobals {
         return result
     }
 
-    @TupleConstructor
     public static class CarbonSource {
         String name
         int carbon
         String byproduct
+        boolean isCombustible = false
+        boolean isHighPurityCombustible = false
+        boolean isPyrolyzable = false
+        int duration = 0
+        String pyrolysis_product = null
 
         public int num_items_by_carbon(int required_carbon) {
             return num_item_by_provider(required_carbon, this.carbon)
@@ -50,66 +54,28 @@ class CarbonGlobals {
     }
 
     public static sources = [
-        new CarbonSource('dustHighPurityCarbon', 100, 'dustTinyAsh').withTraits(HighPurityCombustible).tap {
-            duration = 1
-        },
-        new CarbonSource('dustCarbon', 100, 'dustTinyAsh').withTraits(HighPurityCombustible).tap {
-            duration = 1
-        },
-        new CarbonSource('gemCoke', 100, 'dustTinyAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 2
-            pyrolysis_product = 'dustCarbon'
-        },
-        new CarbonSource('dustCoke', 100, 'dustTinyAsh').withTraits(HighPurityCombustible, Pyrolyzable).tap {
-            duration = 2
-            pyrolysis_product = 'dustCarbon'
-        },
-        new CarbonSource('gemAnthracite', 90, 'dustTinyAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 2
-            pyrolysis_product = 'gemCoke'
-        },
-        new CarbonSource('dustAnthracite', 90, 'dustTinyAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 2
-            pyrolysis_product = 'dustCoke'
-        },
-        new CarbonSource('gemLigniteCoke', 75, 'dustTinyAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 3
-            pyrolysis_product = 'dustCarbon'
-        },
-        new CarbonSource('dustLigniteCoke', 75, 'dustTinyAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 3
-            pyrolysis_product = 'dustCarbon'
-        },
-        new CarbonSource('gemCoal', 75, 'dustTinyDarkAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 4
-            pyrolysis_product = 'gemCoke'
-        },
-        new CarbonSource('dustCoal', 75, 'dustTinyDarkAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 4
-            pyrolysis_product = 'dustCoke'
-        },
-        new CarbonSource('gemCharcoal', 60, 'dustTinyDarkAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 4
-            pyrolysis_product = 'gemCoke'
-        },
-        new CarbonSource('dustCharcoal', 60, 'dustTinyDarkAsh').withTraits(Combustible, Pyrolyzable).tap {
-            duration = 4
-            pyrolysis_product = 'dustCoke'
-        },
-        new CarbonSource('gemLignite', 25, 'dustTinyAsh').withTraits(Pyrolyzable).tap {
-            pyrolysis_product = 'gemLigniteCoke'
-        },
-        new CarbonSource('dustLignite', 25, 'dustTinyAsh').withTraits(Pyrolyzable).tap {
-            pyrolysis_product = 'dustLigniteCoke'
-        }
+            new CarbonSource(name: 'dustHighPurityCarbon', carbon: 100, byproduct: 'dustTinyAsh', isHighPurityCombustible: true, duration: 1),
+            new CarbonSource(name: 'dustCarbon', carbon: 100, byproduct: 'dustTinyAsh', isHighPurityCombustible: true, duration: 1),
+            new CarbonSource(name: 'gemCoke', carbon: 100, byproduct: 'dustTinyAsh', isCombustible: true, isPyrolyzable: true, duration: 2, pyrolysis_product: 'dustCarbon'),
+            new CarbonSource(name: 'dustCoke', carbon: 100, byproduct: 'dustTinyAsh', isHighPurityCombustible: true, isPyrolyzable: true, duration: 2, pyrolysis_product: 'dustCarbon'),
+            new CarbonSource(name: 'gemAnthracite', carbon: 90, byproduct: 'dustTinyAsh', isCombustible: true, isPyrolyzable: true, duration: 2, pyrolysis_product: 'gemCoke'),
+            new CarbonSource(name: 'dustAnthracite', carbon: 90, byproduct: 'dustTinyAsh', isCombustible: true, isPyrolyzable: true, duration: 2, pyrolysis_product: 'dustCoke'),
+            new CarbonSource(name: 'gemLigniteCoke', carbon: 75, byproduct: 'dustTinyAsh', isCombustible: true, isPyrolyzable: true, duration: 3, pyrolysis_product: 'dustCarbon'),
+            new CarbonSource(name: 'dustLigniteCoke', carbon: 75, byproduct: 'dustTinyAsh', isCombustible: true, isPyrolyzable: true, duration: 3, pyrolysis_product: 'dustCarbon'),
+            new CarbonSource(name: 'gemCoal', carbon: 75, byproduct: 'dustTinyDarkAsh', isCombustible: true, isPyrolyzable: true, duration: 4, pyrolysis_product: 'gemCoke'),
+            new CarbonSource(name: 'dustCoal', carbon: 75, byproduct: 'dustTinyDarkAsh', isCombustible: true, isPyrolyzable: true, duration: 4, pyrolysis_product: 'dustCoke'),
+            new CarbonSource(name: 'gemCharcoal', carbon: 60, byproduct: 'dustTinyDarkAsh', isCombustible: true, isPyrolyzable: true, duration: 4, pyrolysis_product: 'gemCoke'),
+            new CarbonSource(name: 'dustCharcoal', carbon: 60, byproduct: 'dustTinyDarkAsh', isCombustible: true, isPyrolyzable: true, duration: 4, pyrolysis_product: 'dustCoke'),
+            new CarbonSource(name: 'gemLignite', carbon: 25, byproduct: 'dustTinyAsh', isPyrolyzable: true, pyrolysis_product: 'gemLigniteCoke'),
+            new CarbonSource(name: 'dustLignite', carbon: 25, byproduct: 'dustTinyAsh', isPyrolyzable: true, pyrolysis_product: 'dustLigniteCoke')
     ]
 
     static Map sourcesMap = sources.collectEntries{[it.name, it]}
     public static def byName(String name) {sourcesMap[name] }
     public static List byNames(List names) { sourcesMap.subMap(names)*.value }
 
-    public static List combustibles() { sources.grep(Combustible) }
-    public static List highPurityCombustibles() { sources.grep(HighPurityCombustible) }
-    public static List dusts() { sources.grep { it.name.startsWith('dust') } }
+    public static List combustibles() { sources.findAll { it.isCombustible } }
+    public static List highPurityCombustibles() { sources.findAll { it.isHighPurityCombustible } }
+    public static List dusts() { sources.findAll { it.name.startsWith('dust') } }
 
 }
