@@ -2,10 +2,20 @@ name: Build
 
 on:
   push:
+    repos:
+      - SymmetricDevs/Supersymmetry
     branches:
-    - master-ceu
+      - master-ceu
+  workflow_dispatch:
 
 jobs:
+  pull_master_ceu:
+    name: Pull origin master-ceu
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Pull origin master-ceu
+      run: git pull origin master-ceu
   build:
     if: "!contains(github.event.head_commit.message, '[build skip]')"
     name: "Pre Release"

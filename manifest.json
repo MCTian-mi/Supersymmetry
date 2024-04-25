@@ -13,7 +13,13 @@
   "name": "Supersymmetry",
   "version": "0.1.12.6",
   "author": "SymmetricDevs",
-  "externalDeps": [],
+  "externalDeps": [
+    {
+      "name": "Fluidlogged-API",
+      "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+      "hash": "808dc03a67099fcf8e3bc62f0965c8b8849bf55ad6ac8cac703aaf3e19cc9c61"
+    }
+  ],
   "files": [
     {
       "projectID": 296851,
@@ -108,11 +114,6 @@
     {
       "projectID": 242998,
       "fileID": 2851111,
-      "required": true
-    },
-    {
-      "projectID": 485654,
-      "fileID": 4564413,
       "required": true
     },
     {
