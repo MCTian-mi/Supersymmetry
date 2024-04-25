@@ -15,7 +15,7 @@
   "author": "SymmetricDevs",
   "externalDeps": [
     {
-      "name": "Fluidlogged-API",
+      "name": "Fluidlogged-API-v2.2.7-mc1.12.2.jar",
       "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar",
       "hash": "808dc03a67099fcf8e3bc62f0965c8b8849bf55ad6ac8cac703aaf3e19cc9c61"
     }
