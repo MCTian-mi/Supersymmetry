@@ -102,7 +102,7 @@ def build(args):
                 hash = hashlib.sha256(r.content).hexdigest()
                 if str(hash) == mod["hash"]:
                     jar.write(r.content)
-                    modlist.append(mod["name"])
+                    modlist.append(mod)#检查
                     print("hash succsessful for {}".format(mod["name"]))
                     break
                 else:
