@@ -5,6 +5,7 @@ import gregtech.api.unification.material.event.MaterialEvent;
 
 import material.SuSyMaterials
 import classes.ChangeFlags
+import net.minecraft.util.ResourceLocation;
 import gregtech.api.unification.material.properties.MaterialProperties;
 import supersymmetry.api.unification.material.properties.FiberProperty;
 import supersymmetry.api.unification.material.properties.SuSyPropertyKey;

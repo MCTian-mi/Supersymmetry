@@ -2,12 +2,12 @@ package prePostInit;
 
 import static globals.Globals.*
 
-import supersymmetry.common.blocks.SuSyBlocks
-import supersymmetry.common.blocks.SusyStoneVariantBlock
-import gregtech.common.blocks.MetaBlocks
-import gregtech.common.blocks.StoneVariantBlock
+import supersymmetry.common.blocks.SuSyBlocks;
+import supersymmetry.common.blocks.SusyStoneVariantBlock;
+import gregtech.common.blocks.MetaBlocks;
+import gregtech.common.blocks.StoneVariantBlock;
 
-import net.minecraftforge.oredict.OreDictionary
+import net.minecraftforge.oredict.OreDictionary;
 
 //Prevent TechGuns from crashing servers
 ore('ingotCopper').remove(item('techguns:itemshared', 79))

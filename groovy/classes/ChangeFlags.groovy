@@ -21,6 +21,7 @@ import gregtech.api.fluids.FluidBuilder;
 import gregtech.api.fluids.FluidState;
 import gregtech.api.fluids.store.FluidStorageKeys;
 import gregtech.api.fluids.store.FluidStorageKey;
+import net.minecraft.util.NonNullList
 
 import supersymmetry.api.fluids.SusyFluidStorageKeys;
 import supersymmetry.api.recipes.SuSyRecipeMaps;

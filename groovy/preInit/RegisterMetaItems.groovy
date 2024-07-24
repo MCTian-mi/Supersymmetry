@@ -6,6 +6,7 @@ import gregtech.api.items.metaitem.*;
 import gregtech.api.unification.material.MarkerMaterials;
 import gregtech.api.unification.ore.OrePrefix;
 import net.minecraft.util.text.TextFormatting;
+import net.minecraft.inventory.IInventory;
 import gregtech.api.unification.material.event.PostMaterialEvent;
 import gregtech.common.items.behaviors.TooltipBehavior;
 

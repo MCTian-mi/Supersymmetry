@@ -4,6 +4,7 @@ import gregtech.api.unification.material.Material;
 
 import gregtech.api.GregTechAPI;
 import gregtech.api.unification.material.properties.*
+import net.minecraft.util.ResourceLocation;
 
 import static gregtech.api.unification.material.info.MaterialIconSet.*;
 import static gregtech.api.unification.material.info.MaterialFlags.*;

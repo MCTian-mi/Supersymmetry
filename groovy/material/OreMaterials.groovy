@@ -10,6 +10,7 @@ import gregtech.api.unification.material.properties.*
 
 import supersymmetry.api.fluids.SusyFluidStorageKeys;
 import supersymmetry.api.util.SuSyUtility;
+import net.minecraft.util.ResourceLocation;
 import static supersymmetry.api.unification.material.info.SuSyMaterialFlags.*;
 
 import static gregtech.api.unification.material.info.MaterialIconSet.*;
