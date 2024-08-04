@@ -67,6 +67,7 @@ def build(args):
             print("could not determine git sha, skipping")
     with open(basePath + "/manifest.json") as file:
         manifest = json.load(file)
+
     cachepath = os.path.join(basePath, "buildOut", "modcache")
 
     def mkdirs(path):
@@ -79,6 +80,7 @@ def build(args):
     mkdirs(basePath + "/buildOut/server")
     mkdirs(basePath + "/mods")
     mkdirs(cachepath)  # /buildOut/modcach
+
     # if we downloaded mods before, add them to the cache
     prev = basePath + "/buildOut/server/mods"
     cached = 0
@@ -125,6 +127,72 @@ def build(args):
                 "/buildOut/client/manifest.json")
     shutil.make_archive(archive, "zip", basePath + "/buildOut/client")
     print('client zip "%s.zip"  made' % (archive))
+    
+    #cleanroom begins
+    for dir in copyDirs:
+            try:
+                shutil.copytree(basePath + dir, basePath +
+                                "/buildOut/client-cleanroom/.minecraft" + dir) #TODO
+            except Exception as e:
+                print("Directory exists, skipping")
+    mkdirs(basePath + "/buildOut/client-cleanroom/.minecraft/config/mod-director")
+    mkdirs(basePath + "/buildOut/client-cleanroom/.minecraft/mods")
+    with open(basePath + "/buildOut/client-cleanroom/.minecraft/config/mod-director/mods.bundle.json", "w") as file2:
+        
+        modsbundle = {"url": [], 'curse': []}
+        
+        def check_file(mod: dict):
+            if "downloadable" in mod.keys() and not mod["downloadable"]:
+                #TODO
+                return False
+            elif "cleanroom" in mod.keys() and not mod["cleanroom"]:
+                return False
+            return True
+        
+        
+        for mod in manifest["externalDeps"]:
+            if check_file(mod):
+                modsbundle["url"].append({
+                    "url": mod["url"]
+                })
+        
+        for mod in manifest["files"]:
+            if check_file(mod):
+                modsbundle["curse"].append({
+                    "addonId" : mod["projectID"],
+                    "fileId" : mod["fileID"]
+                })
+        
+        for mod in manifest["cleanroomFiles"]:
+            modsbundle["curse"].append({
+                "addonId" : mod["projectID"],
+                "fileId" : mod["fileID"]
+            })
+            
+        file2.write(json.dumps(modsbundle))
+        
+    with open(basePath + "/buildOut/client-cleanroom/.minecraft/mods/!mod-director-launchwrapper.jar", "w+b") as file3:
+        r = requests.get(manifest["filedirector"])
+        file3.write(r.content)
+        
+    with open(basePath + "/buildOut/client-cleanroom/Cleanroom-MMC.zip", "w+b") as cleanroomMMC:
+        cleanroomVer = "0.2.2-alpha"
+        url = (
+            "https://github.com/CleanroomMC/Cleanroom/releases/download/"
+            + cleanroomVer
+            + "/Cleanroom-MMC-instance-"
+            + cleanroomVer
+            + ".zip"
+        )
+        r = requests.get(url)
+        cleanroomMMC.write(r.content)
+    shutil.unpack_archive(basePath + "/buildOut/client-cleanroom/Cleanroom-MMC.zip", basePath + "/buildOut/client-cleanroom/")
+    os.remove(basePath + "/buildOut/client-cleanroom/Cleanroom-MMC.zip")
+    archive = "buildOut/client-cleanroom"
+    shutil.make_archive(archive, "zip", basePath + "/buildOut/client-cleanroom")
+    print('client-cleanroom zip "%s.zip"  made' % (archive))
+    #cleanroom ends
+
 
     if (args.client):
         return
@@ -195,6 +263,7 @@ def build(args):
         mkdirs(f"{basePath}/buildOut/server/{dir}")
 
     print("directories copied to buildOut/server")
+    
     for mod in modlist:
         filename = mod["url"].split("/")[-1]
         if (mod["clientOnly"] == True):
@@ -213,6 +282,7 @@ def build(args):
             jar.write(r.content)
             print(mod["name"] + " Downloaded")
     print("Mods Downloaded")
+    
     with open(basePath + "/buildOut/server/forge-installer.jar", "w+b") as jar:
         forgeVer = manifest["minecraft"]["modLoaders"][0]["id"].split("-")[-1]
         mcVer = manifest["minecraft"]["version"]

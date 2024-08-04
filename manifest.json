@@ -13,7 +13,13 @@
   "name": "Supersymmetry",
   "version": "0.1.12.10",
   "author": "SymmetricDevs",
-  "externalDeps": [],
+  "externalDeps": [
+    {
+      "name": "Fluidlogged-API",
+      "url": "https://cdn.modrinth.com/data/vVXPbodS/versions/y52dPt4Z/Fluidlogged-API-v2.2.7-mc1.12.2.jar",
+      "hash": "808dc03a67099fcf8e3bc62f0965c8b8849bf55ad6ac8cac703aaf3e19cc9c61"
+    }
+  ],
   "files": [
     {
       "projectID": 296851,
@@ -123,7 +129,8 @@
     {
       "projectID": 419286,
       "fileID": 5079135,
-      "required": true
+      "required": true,
+      "cleanroom": false
     },
     {
       "projectID": 277631,
@@ -313,7 +320,8 @@
     {
       "projectID": 245211,
       "fileID": 2667280,
-      "required": true
+      "required": true,
+      "downloadable": false
     },
     {
       "projectID": 308380,
@@ -704,7 +712,8 @@
     {
       "projectID": 322344,
       "fileID": 3509087,
-      "required": true
+      "required": true,
+      "downloadable": false
     },
     {
       "projectID": 225781,
@@ -829,7 +838,8 @@
     {
       "projectID": 348025,
       "fileID": 4494577,
-      "required": true
+      "required": true,
+      "downloadable": false
     },
     {
       "projectID": 571482,
@@ -915,11 +925,27 @@
     {
       "projectID": 870276,
       "fileID": 5212709,
-      "required": true
+      "required": true,
+      "cleanroom": false
     },
     {
       "projectID": 995393,
       "fileID": 5252395,
+      "required": true
+    }
+  ],
+  "filedirector": "https://cdn.modrinth.com/data/4dRu1OUz/versions/b8pITnja/%21mod-director-launchwrapper-1.8.3.jar",
+  "cleanroomFiles": [
+    {
+      "projectName" : "Fugue",
+      "projectID": 1005815,
+      "fileID": 5528613,
+      "required": true
+    },
+    {
+      "projectName" : "Scalar",
+      "projectID": 1012168,
+      "fileID": 5309537,
       "required": true
     }
   ],
