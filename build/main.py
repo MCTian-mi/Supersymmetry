@@ -208,6 +208,9 @@ def build(args):
 
         folder = class_id_to_dir.get(mod["class"], "other")
 
+        if filename == 'Black_Mesa.zip':
+            folder = 'config/immersiverailroading'
+
         with open(f"{basePath}/buildOut/server/{folder}/{filename}", "w+b") as jar:
             r = requests.get(mod["url"])
             jar.write(r.content)
