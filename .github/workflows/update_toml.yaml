@@ -1,0 +1,14 @@
+name: Update Toml
+
+on:
+  workflow_dispatch
+
+jobs:
+  build:
+    name: "Update Toml"
+    runs-on: ubuntu-latest
+    steps:
+    - name: refresh
+      shell: bash
+      run: |
+        packwiz refresh
