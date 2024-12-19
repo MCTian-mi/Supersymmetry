@@ -19,4 +19,4 @@ jobs:
       with:
         commit_message: "update tomol"
         commit_options: "--no-verify"
-        file_pattern: pack.toml || index.toml
+        file_pattern: pack.toml index.toml
