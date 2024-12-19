@@ -8695,6 +8695,11 @@ hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
+file = "mods/dasii.pw.toml"
+hash = "a9b4ceae1b644a628c8ac52e138e331f98b2dbc0910905bdcb1a02d41ac8406e"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
