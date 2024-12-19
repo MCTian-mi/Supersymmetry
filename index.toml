@@ -34,7 +34,7 @@ hash = "ce35efdfb1864d52f38daa1125c1a8851c49be56b49675a799d94dda902378d3"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "f3611085561c64be58d2dcca964a0e7c37c437f66ce1429a09bc6773c45250fe"
+hash = "12fe9b1208dd5b0388196b7983984bddc4a4fd7b0136789caa329b95b1ee8344"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
