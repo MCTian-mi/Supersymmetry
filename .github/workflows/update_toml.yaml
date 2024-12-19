@@ -11,4 +11,4 @@ jobs:
     - name: refresh
       shell: bash
       run: |
-        packwiz refresh
+        ls
