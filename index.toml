@@ -7113,6 +7113,11 @@ file = "config/immersiverailroading.cfg"
 hash = "334b76e1d81e4eeb02bca7aa9ae7d810bd55215f0dcd4881e78e8b14f340dfc2"
 
 [[files]]
+file = "config/immersiverailroading/black-mesa-transit-system.pw.toml"
+hash = "1c75b9c30ed3574080ca187ee34d3f34c813d59e5a494fe4130eb08b78a1ec5c"
+metafile = true
+
+[[files]]
 file = "config/immersiverailroading_graphics.cfg"
 hash = "750a3f6cd94813e41eaf3dd68d8cb8b3ee39e42ad81646cfe715ba242d59ee98"
 
@@ -9354,6 +9359,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
 hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shadertech.pw.toml"
+hash = "2e01619443c033d6e8fc82f8f1fc428ba69ae4d4a3df80f667909ca6d725ba96"
 metafile = true
 
 [[files]]
