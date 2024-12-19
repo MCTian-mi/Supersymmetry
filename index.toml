@@ -9177,11 +9177,6 @@ hash = "91888e58a14acae52af0857c331d3eff512b37d2b457db73793dd51ba7cd1dd5"
 metafile = true
 
 [[files]]
-file = "mods/serializationisbad.pw.toml"
-hash = "39856b030202484375620086fe0e3765f5251f55a5836a0ceaf3b8fe8f5fcac5"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "ea500953c3b4b9e989f0ea5a33b0ab03e86ee9798510129ba9ea91743e31869c"
 metafile = true
