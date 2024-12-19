@@ -8,7 +8,9 @@ jobs:
     name: "Update Toml"
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v3
     - name: refresh
       shell: bash
       run: |
+        ls
         ./packwiz refresh
