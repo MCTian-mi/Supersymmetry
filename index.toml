@@ -8657,11 +8657,6 @@ hash = "e5fcda70b8ea1265a35520c4838fc975c5f8926d440c98e4237989f1aea36588"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "226104b65760cc716d9fa104b63a668c2312a770f5820a4ecefacba5dd0b1359"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
 metafile = true
@@ -8679,6 +8674,11 @@ metafile = true
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
+file = "mods/dasii.pw.toml"
+hash = "a9b4ceae1b644a628c8ac52e138e331f98b2dbc0910905bdcb1a02d41ac8406e"
 metafile = true
 
 [[files]]
@@ -8762,8 +8762,18 @@ hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-utilities-forge.pw.toml"
 hash = "b3bf53323fcae0f8647ce23c60fffc003abcd315ece3772822f3130d7d5cd52f"
+metafile = true
+
+[[files]]
+file = "mods/fugue.pw.toml"
+hash = "b49da0336029af103345b69eaa63befdcf6cde35f6f41c6f9579d69490b5671e"
 metafile = true
 
 [[files]]
@@ -8824,6 +8834,11 @@ metafile = true
 [[files]]
 file = "mods/groovyscript.pw.toml"
 hash = "345cd3b65ed52d646336ad3c8d720d3cf444a9d33bf306a037e8494114c94fa4"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-characters.pw.toml"
+hash = "cb5c1d6083e3ac971680859584b6b70356f17c4c5e5df906cc5079b9c95d59ee"
 metafile = true
 
 [[files]]
@@ -8902,13 +8917,13 @@ hash = "ea6217ebaeb18bc22aa64f59530e8c9b73cb180e92785fdef2ce28b1418fa17a"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
+file = "mods/just-enough-calculation.pw.toml"
+hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-calculation.pw.toml"
-hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
+file = "mods/just-enough-characters.pw.toml"
+hash = "2076abed696e5f140ea634e501482708204a68253b92b6a3fa8e39a796a7246b"
 metafile = true
 
 [[files]]
@@ -8919,11 +8934,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
-metafile = true
-
-[[files]]
-file = "mods/laggoggles.pw.toml"
-hash = "2aec74c6dd668ddaca814969e6280f58c3b751ba75379d508a32c0b3f29dbf40"
 metafile = true
 
 [[files]]
@@ -9142,6 +9152,11 @@ hash = "e7f313d93cd3ef9f39cba1f81d69060993643ffedf6998757fda543fda6ebd4b"
 metafile = true
 
 [[files]]
+file = "mods/scalar.pw.toml"
+hash = "e3a22ef958757e82d498d61fe6b44d944879c3147da5f3fdf85026ae48981287"
+metafile = true
+
+[[files]]
 file = "mods/scaling-health.pw.toml"
 hash = "ce611cd223f8163c68e1527d9499de1180c287c3dc9cffa7b0a549b4b4f4ddd8"
 metafile = true
@@ -9232,11 +9247,6 @@ hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
-file = "mods/tickcentral.pw.toml"
-hash = "19ef45fc00112597f2c1f9eea7b59778d953b3f8bc360fc95bb4937849df1bf1"
-metafile = true
-
-[[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
@@ -9314,6 +9324,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "34187f7962eed006c3aa80c73ca94c71bc9c96d77c234b5ebd43347e45f9b9cd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c6cea5d1ee990df5f7fd11f6f90694e03fd11a5dd109709134d9fa8b9962aa0b"
 metafile = true
 
 [[files]]
