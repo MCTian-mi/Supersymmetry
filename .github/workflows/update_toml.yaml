@@ -1,0 +1,24 @@
+name: Update Toml
+
+on:
+  push:
+    branches:
+      - autosymmetry
+
+jobs:
+  build:
+    name: "Update Toml"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: refresh
+        shell: bash
+        run: |
+          chmod +x ./packwiz
+          ./packwiz refresh
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "update toml"
+          commit_options: "--no-verify"
+          file_pattern: pack.toml index.toml
