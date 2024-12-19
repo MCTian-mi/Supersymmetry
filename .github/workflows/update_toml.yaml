@@ -12,5 +12,4 @@ jobs:
     - name: refresh
       shell: bash
       run: |
-        ls
-        ./packwiz refresh
+        chmod +x packwiz refresh
