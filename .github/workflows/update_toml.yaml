@@ -14,3 +14,10 @@ jobs:
       run: |
         chmod +x ./packwiz
         ./packwiz refresh
+    - name: Commit and push gradle.properties
+      if: env.UPDATED == 'false' # only push new version if it's not already updated
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "update tomol"
+        commit_options: "--no-verify"
+        file_pattern: .toml
