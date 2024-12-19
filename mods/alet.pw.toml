@@ -1,6 +1,6 @@
 name = "A Little Extra Tiles(Formerly LTPhoto)"
 filename = "A_Little_Extra_Tiles-1.1.0-pre029.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
