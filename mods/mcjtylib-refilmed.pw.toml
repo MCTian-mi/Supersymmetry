@@ -1,13 +1,13 @@
 name = "McJtyLib Refilmed"
-filename = "mcjtylib-refilmed-3.5.5.jar"
+filename = "mcjtylib-refilmed-3.5.5-mui.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "666f8eaa96869a1c9442638506959ed0c76d86cf"
+hash = "73671afbe7159034b9e45dcae96f490ab39435cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5643297
+file-id = 6000853
 project-id = 1086841
