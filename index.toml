@@ -6250,7 +6250,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/gregtech/gregtech.cfg"
-hash = "ab09a3a760b96ee529cf44df07e1f752fbff07915a6f1ac5b3c1ad17f5a3751d"
+hash = "ba730245812429bb5d29878d13bbddaaf091c489f2e2f47ddc94a155d6ba4d96"
 
 [[files]]
 file = "config/gregtech/modules.cfg"
