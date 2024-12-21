@@ -31,7 +31,7 @@ jobs:
         shell: bash
         run: |
           chmod +x ./packwiz
-          ./packwiz curseforge export -o buildOut/client.zip
+          ./packwiz curseforge export -o build/client.zip
       # Run bootstrap to download server files
       - name: Bootstrap
         uses: actions/setup-java@v4
@@ -51,7 +51,7 @@ jobs:
           zip -r $serverPack structures
           zip -m $serverPack launch.sh
           cd ..
-          mv ./server/$serverPack buildOut/$serverPack
+          mv ./server/$serverPack build/$serverPack
 
       - name: Upload Artifact Client Pack
         uses: actions/upload-artifact@v4
@@ -59,7 +59,7 @@ jobs:
           # Artifact name
           name: Client
           # A file, directory or wildcard pattern that describes what to upload
-          path: buildOut/client.zip
+          path: build/client.zip
 
       - name: Upload Artifact Server Pack
         uses: actions/upload-artifact@v4
@@ -67,7 +67,7 @@ jobs:
           # Artifact name
           name: Server
           # A file, directory or wildcard pattern that describes what to upload
-          path: buildOut/server.zip
+          path: build/server.zip
 
       - name: Automatic Releases
         uses: marvinpinto/action-automatic-releases@latest
@@ -77,5 +77,5 @@ jobs:
           prerelease: true
           title: ${{ steps.vars.outputs.sha_short }}
           files: |
-            buildOut/client.zip
-            buildOut/server.zip
+            build/client.zip
+            build/server.zip
