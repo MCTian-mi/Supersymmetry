@@ -1,4 +1,3 @@
-mods/
 buildOut/
 *client.zip
 .mixin.out/
@@ -81,8 +80,6 @@ screenshots/
 
 backups/
 
-resourcepacks/
-
 local/
 
 disabledmods/
@@ -93,3 +90,6 @@ visualores/
 
 *__pycache__*
 servers.dat
+/packwiz.exe
+index.toml
+pack.toml

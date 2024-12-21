@@ -1,0 +1,14 @@
+# .packwizignore follows the same format as .gitignore, and can be used to exclude unwanted files from pack exports
+# See https://git-scm.com/docs/gitignore
+
+# Exclude README
+.github/
+.idea/
+.build/
+.gitignore
+.gitattributes
+imgui.ini
+LICENSE
+manifest.json
+*.py
+*.iml
