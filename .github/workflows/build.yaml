@@ -43,15 +43,15 @@ jobs:
         shell: bash
         run: |
           serverPack="server.zip"
-          cd server
-          java -jar packwiz-installer-bootstrap.jar -g -s server "https://raw.githubusercontent.com/MCTian-mi/Supersymmetry/refs/heads/autosymmetry/pack.toml"
+          cd build
+          java -jar packwiz-installer-bootstrap.jar -g -s server ./pack.toml
           zip -r $serverPack config
           zip -r $serverPack groovy
           zip -r $serverPack mods
           zip -r $serverPack structures
           zip -m $serverPack launch.sh
           cd ..
-          mv ./server/$serverPack build/$serverPack
+          mv ./build/$serverPack build/$serverPack
 
       - name: Upload Artifact Client Pack
         uses: actions/upload-artifact@v4
