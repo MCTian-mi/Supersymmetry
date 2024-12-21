@@ -44,7 +44,7 @@ jobs:
         run: |
           serverPack="server.zip"
           cd build
-          java -jar ../packwiz-installer-bootstrap.jar -g -s server ./pack.toml
+          java -jar ../packwiz-installer-bootstrap.jar -g -s server ../pack.toml
           zip -r $serverPack config
           zip -r $serverPack groovy
           zip -r $serverPack mods
