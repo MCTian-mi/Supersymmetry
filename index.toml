@@ -4794,7 +4794,7 @@ hash = "b774a1a6bb0ce1e0d4dccc0b2ae740aaa8dea58be90d13ab227aacdf002e0b7c"
 
 [[files]]
 file = "config/betterquesting/resources/supersymmetry/lang/en_us.lang"
-hash = "01d57995fa6ca8491f89b5dbba85dd886333d870078c6aa48906caf136b37735"
+hash = "bd108babba62a7d18c321f49ffedabc3d55cddef0284ecd9af88bfc9193755a5"
 
 [[files]]
 file = "config/betterquesting/resources/supersymmetry/textures/gui/supersymmetry_gui.png"
@@ -7671,7 +7671,7 @@ hash = "488fdbff4d07b6c953622aabf40e701346763ae0224763c854219d06967f7adc"
 
 [[files]]
 file = "groovy/material/FirstDegreeMaterials.groovy"
-hash = "74460ad469202e27e1d768e76e1fc22fed3b0aa5c675f9b9cfb513f398e34e6b"
+hash = "f2f2af9a6671243e3a53eb9c12dcdf2660a35f0d493e07a308499534ce0ee932"
 
 [[files]]
 file = "groovy/material/IsotopeMaterials.groovy"
@@ -7695,7 +7695,7 @@ hash = "93623220a790f52e30f5113dd84c22d282ec5895a0b60c72c75a684d053ca2a8"
 
 [[files]]
 file = "groovy/material/SuSyMaterials.groovy"
-hash = "e8380b87ff9cf2a8c6999bddf28341f3ee99d20982ab9693f12f4c6478c22818"
+hash = "ad62406f1e298aadad1a1db2b261e10df0e82ebc964093cdda1868e826509bd8"
 
 [[files]]
 file = "groovy/material/ThermodynamicsMaterials.groovy"
@@ -7735,7 +7735,7 @@ hash = "c59125e1469fda3cc7c5d7257f0b0dcf52d8e74d8dc7b481c9727eb84b2707a0"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/Dyes.groovy"
-hash = "10152b91632a26db310f2a837b4c2ce9bdf7f1e1a594362befb476e72a7385d8"
+hash = "65ead07591b99106e42be6b116572dd4579f77383d79b2fdbe14380a4f297578"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/ElectrolysisOverhaul.groovy"
@@ -7755,7 +7755,7 @@ hash = "aed559a0e02603461d64ec28e5c60cc4dc19746596e7da51febbbb0c56d9e47a"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group10/NickelChain.groovy"
-hash = "b45d02967fe01d469c0411d756d07c3c7169a651fdf12700577d9e4fd69f830a"
+hash = "9f756c6d21b6165e927aed12f9a345f7a3460400274f2d1ded050b79699064aa"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group10/PlatinumGroupChain.groovy"
@@ -7799,7 +7799,7 @@ hash = "abb50ddbbc72f9a4e257b6e33d07cd946df26a94355be32704297b35d527611c"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group5/NiobiumChain.groovy"
-hash = "a336019d57b27824867b23e8846a26f20f3473f3685a587da32503ea84a66258"
+hash = "0bb62e40dc04fea97e51c9c1a5b2c7a1c9f2a29954e11537a5c4598c4204a3ff"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group5/TantalumChain.groovy"
@@ -7823,7 +7823,7 @@ hash = "62f968d09d50a509fcdbafbc051c33d917c4070f5dd814e96d110b8517a95d5c"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group7/ManganeseChain.groovy"
-hash = "67a10664a92c788bb54482e7a00d98d3f4b3de1ff7cd820f54f5f0d7cca783bf"
+hash = "167d0c658f67fc82d615263ea0c0674e65fa20ad343317490810bf68be1d8e48"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group7/RheniumChain.groovy"
@@ -7835,7 +7835,7 @@ hash = "91fccf89bbc35e92d421c24e93cb9c5a82599edce4e4c571df4a0b69c1df7d8d"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group9/CobaltChain.groovy"
-hash = "6f54e54725bce27e1b1b1056edaea51c61d487c6badec0bd7734f9f0472a5c8a"
+hash = "616943fca0c0c96f2fedc313c1fcaa84342e49d0be8aa5892b25f212ef91913c"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/f_block/actinides/UraniumChain.groovy"
@@ -7931,7 +7931,7 @@ hash = "c0868618133723594eeb6b0b19d18f497042dbfe00918e5845f62d838bf2c965"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/LithiumChain.groovy"
-hash = "a572b45aa1171f01c4b58b43d37cd68717574f5497cd8d6b9ad1bf013d4d062e"
+hash = "c09a8800d0a62a7dd1453703970a4dfbd0f74e3af83321a52f948dcc5cff7f59"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/PotassiumChain.groovy"
@@ -8123,7 +8123,7 @@ hash = "84870a85e4d47a0d157502754d8ad0ae71bfb1c404bd575b2c7894379b361825"
 
 [[files]]
 file = "groovy/postInit/components/Batteries.groovy"
-hash = "c8c0521ddf97dda1653d1077d8c926700e45fb290c3a578836b330bb02925dbf"
+hash = "bbdfb0ca21f9a7c3821dd8cc21e16ed762813da32bb39548285ffb5776686950"
 
 [[files]]
 file = "groovy/postInit/components/ElectronicCircuits.groovy"
@@ -8159,7 +8159,7 @@ hash = "e338b6f405c8dc5509fd7f010c10742703a5b249a57deb9cc6c3946f4c14842b"
 
 [[files]]
 file = "groovy/postInit/components/SMDComponents.groovy"
-hash = "c2b68a7e0b815fc95a82aa5827a453d7fc800ab6110def1e6e4c89914552ae0a"
+hash = "ad9cf21ebaff07cd40cf6ce2c6ed6917a99a6c20e784c3147b0e75498c70569b"
 
 [[files]]
 file = "groovy/postInit/components/Sensors.groovy"
@@ -8803,7 +8803,7 @@ metafile = true
 
 [[files]]
 file = "mods/graduated-cylinders.pw.toml"
-hash = "ec71a8066f971712cb691b9cd1602f11ade0d1757e3540934620a042e2d949cb"
+hash = "968e5378f4914911751ba717d3d1c951d65830579dc6c81fb2538d96434e1585"
 metafile = true
 
 [[files]]
@@ -12203,7 +12203,7 @@ hash = "e88cbbdf24ecbcbf63eb608e6d049deee9ebb5eabacb680cfc3f1d7d92a80921"
 
 [[files]]
 file = "resources/langfiles/lang/en_us.lang"
-hash = "8d74a36f812e7e9a25d334c30bd88b9d4c4f17cdc8bd1a52e68e82aa3ef8ce6d"
+hash = "9e9b6a207b7a630b98206f9adfe320bc626d4a27df0eed7077a59d8831bd87cc"
 
 [[files]]
 file = "resources/langfiles/lang/pl_pl.lang"
@@ -12211,7 +12211,7 @@ hash = "e90dc85576dad0f99662b4cc294889122866e219d4cbd517aceddc2529971f79"
 
 [[files]]
 file = "resources/langfiles/lang/ru_RU.lang"
-hash = "29355fd8644ae08e6a1959d30a7b7c1ad64730607175d18ebee0b328be62ae26"
+hash = "815c4223e64814ef2a216242d2c1bac108275d4c35f332e5def79c1e23e29d3a"
 
 [[files]]
 file = "resources/langfiles/lang/zh_cn.lang"
