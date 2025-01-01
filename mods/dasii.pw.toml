@@ -1,7 +1,0 @@
-name = "dasii"
-filename = "dasii-1.0.0.jar"
-
-[download]
-url = "https://github.com/MCTian-mi/Dasii/releases/download/0.01/dasii-1.0.0.jar"
-hash-format = "sha256"
-hash = "0a1e311eacadf712fe5cb492b241377baba55288d343b93dee3de351e837807e"
