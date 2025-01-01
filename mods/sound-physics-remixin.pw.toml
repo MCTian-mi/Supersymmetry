@@ -1,13 +1,13 @@
 name = "籁/Sound Physics Remixin"
-filename = "Sound-Physics-1.12.2-1.1.5.jar"
+filename = "soundphysics-1.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "86e9b93491a8110b44cd488a3e302f51246909b9"
+hash = "91e788f0298b4f5d971c2f4689263d4bd5b3bfe4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5967242
+file-id = 6035428
 project-id = 951159

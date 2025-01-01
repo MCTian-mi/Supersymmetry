@@ -8590,6 +8590,11 @@ hash = "563bda337585d0ccbaa0429a0da48df4fae7ef9eeaf11b8d6ca3f55e558a156e"
 metafile = true
 
 [[files]]
+file = "mods/bqutweaker.pw.toml"
+hash = "f8f29931bda2f7105367891185020f608516f1780e78de28c348bf6e4a2c7f7a"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "e6b6f908221c3ff5f821e0f648a05f037ca100a242fb3d0122db9209e2531be2"
 metafile = true
@@ -8725,16 +8730,6 @@ hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
 metafile = true
 
 [[files]]
-file = "mods/extra-cells-2-samlam140330s-fork.pw.toml"
-hash = "c481689630aa1866bfd65db872f0b3ea3ad10c02a3dd3762760fa538fab85cbd"
-metafile = true
-
-[[files]]
-file = "mods/extracpus.pw.toml"
-hash = "c126c2863f75e3f86f3cc31d69d058d650072a6ba96cd3d63f43198b2d0c1904"
-metafile = true
-
-[[files]]
 file = "mods/extreme-sound-muffler-legacy.pw.toml"
 hash = "543f6ff8fcfb5052af4caf4cd5c40d394c5a92cb935893f5730d4f81d045d862"
 metafile = true
@@ -8786,7 +8781,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "b49da0336029af103345b69eaa63befdcf6cde35f6f41c6f9579d69490b5671e"
+hash = "3876138238f40ace9b9203c84cdee2a0d72cc0c961dc97801b754d437a7a365f"
 metafile = true
 
 [[files]]
@@ -9020,6 +9015,11 @@ hash = "a98c572071cf97b6744a82b8b02f0c32d8299c40da28a6ec8693be0bd9156ece"
 metafile = true
 
 [[files]]
+file = "mods/nae2.pw.toml"
+hash = "108eab3cfbc1a3e6c73bcc27927979a84c58fd435ee929ab53bbc9926e6b5246"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
@@ -9091,7 +9091,7 @@ metafile = true
 
 [[files]]
 file = "mods/packagedauto.pw.toml"
-hash = "380b42776c9bdccd079c7583ff3eca3a478917ca2af3ea4b90532ef0e2bccd14"
+hash = "1e29c5464f008e221d45a7c7063f225a6f3c500f4bd25079ac3c72bc0f8e11a2"
 metafile = true
 
 [[files]]
@@ -9206,7 +9206,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remixin.pw.toml"
-hash = "5d58786a27c7018cf2b9dda68b74863ccafb5063f2f6311c74e7adf99b89d86f"
+hash = "b37dca45755579e00536daeee219e389c289394ba4b230c9e640cc60162e8429"
 metafile = true
 
 [[files]]
@@ -9226,7 +9226,7 @@ metafile = true
 
 [[files]]
 file = "mods/susycore.pw.toml"
-hash = "a3e6b20ed996916fc0f77321ca243df0c34e2b963cdb072d3cb7a3a18580eb59"
+hash = "d87bcb54a305b8e06fae857711f0061204f38016122a09d8a947668a0844ed55"
 metafile = true
 
 [[files]]
@@ -9331,7 +9331,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "34187f7962eed006c3aa80c73ca94c71bc9c96d77c234b5ebd43347e45f9b9cd"
+hash = "d855d6d23f7690087399672139630dd50e31896525c503ce7a2f770931d23de8"
 metafile = true
 
 [[files]]
