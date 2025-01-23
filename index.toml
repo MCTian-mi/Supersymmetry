@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "build/download.py"
-hash = "5eadd51aecaf58965a7977204418edb3098d4ed0808fcc652f99702a72b36f85"
-
-[[files]]
-file = "build/server/packwiz-installer-bootstrap.jar"
-hash = "40e305e377e0d3402159a5123a809c4130154063cb82851349761d5ef1331d9a"
-
-[[files]]
 file = "config/AE2WirelessTerminals.cfg"
 hash = "95eef24be52361263ce2ccc7aff47a27f5c08ef6c9638f868350caa4f892bd3a"
 
@@ -34,7 +26,7 @@ hash = "ce35efdfb1864d52f38daa1125c1a8851c49be56b49675a799d94dda902378d3"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "12fe9b1208dd5b0388196b7983984bddc4a4fd7b0136789caa329b95b1ee8344"
+hash = "5a794614dd76d2f831c0bbaad1f04aa691fd2f8fac3ccabcffa93e4f8c757a38"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
@@ -7694,10 +7686,6 @@ file = "config/xtones.cfg"
 hash = "10c212439ac422358b053ebaab8b8728623a0533ca944e6958007af40e947f22"
 
 [[files]]
-file = "groovy/assets/supersymmetry/lang/en_us.lang"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "groovy/classes/ChangeFlags.groovy"
 hash = "8a34c93efac730ceab01ae8ffbff8e8b93c10a8b47d60b520004db8aec295ef1"
 
@@ -12761,8 +12749,28 @@ file = "resources/supersymmetry/backgrounds/18.png"
 hash = "79af83e8dea3e3c11ef10696461df2580ffccea71b473957fc27fbb47b148495"
 
 [[files]]
+file = "resources/supersymmetry/backgrounds/19.png"
+hash = "d64bd453098ea461dab2529a87b1f75d373fc14c13a115486bedba8499852e5b"
+
+[[files]]
+file = "resources/supersymmetry/backgrounds/20.png"
+hash = "e26170bd01091124faa2f510084588cfa15a20011196e5c2289fd914982a4c4e"
+
+[[files]]
+file = "resources/supersymmetry/backgrounds/21.png"
+hash = "81b8ef28ad0fb95c885ff21348b718446742c86634f320c57fe44853d9dbbfac"
+
+[[files]]
+file = "resources/supersymmetry/backgrounds/22.png"
+hash = "06df6c83d8ece1283772fe279a198bed99a8b6fc6a89626d5182c02968d9a488"
+
+[[files]]
+file = "resources/supersymmetry/backgrounds/23.png"
+hash = "ed9480db62efe52173a8d85fe2f363b00586be7ba01f10aad4bde32a1ff8da05"
+
+[[files]]
 file = "resources/supersymmetry/backgrounds/credit.md"
-hash = "3bf1585ed40bb644c8a4f0ded28b853d0953d5d085a6e185fb1fb489fc416a1c"
+hash = "e965224a44735fa287d988d237bcf94eec0e084aa7e34890e32cafd2789733e2"
 
 [[files]]
 file = "resources/supersymmetry/guides/boilerroller.png"
