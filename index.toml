@@ -8768,11 +8768,6 @@ hash = "e5fcda70b8ea1265a35520c4838fc975c5f8926d440c98e4237989f1aea36588"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "0168af78e544911a9ad5eaf7bc922055663291269ab2d1ab0b55f2c86735473b"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
 metafile = true
@@ -9023,11 +9018,6 @@ hash = "ea6217ebaeb18bc22aa64f59530e8c9b73cb180e92785fdef2ce28b1418fa17a"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "34bcd62bca78729d9c295bb8d7cbfde2239af84c86719744a4e8c0af7e69f150"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
 metafile = true
@@ -9045,11 +9035,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
-metafile = true
-
-[[files]]
-file = "mods/laggoggles.pw.toml"
-hash = "2aec74c6dd668ddaca814969e6280f58c3b751ba75379d508a32c0b3f29dbf40"
 metafile = true
 
 [[files]]
@@ -9298,11 +9283,6 @@ hash = "91888e58a14acae52af0857c331d3eff512b37d2b457db73793dd51ba7cd1dd5"
 metafile = true
 
 [[files]]
-file = "mods/serializationisbad.pw.toml"
-hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
-metafile = true
-
-[[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "ea500953c3b4b9e989f0ea5a33b0ab03e86ee9798510129ba9ea91743e31869c"
 metafile = true
@@ -9368,11 +9348,6 @@ hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
-file = "mods/tickcentral.pw.toml"
-hash = "19ef45fc00112597f2c1f9eea7b59778d953b3f8bc360fc95bb4937849df1bf1"
-metafile = true
-
-[[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
@@ -9405,11 +9380,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "9bd71ae6ab0afca4caa69a4d24897154d1557ea45a41c3673d40f8bf545608ba"
-metafile = true
-
-[[files]]
-file = "mods/unilib.pw.toml"
-hash = "754c41a1f4055814daf858bb3e4b03cd034ffb45e5093ea102a01db8d5fb48b4"
 metafile = true
 
 [[files]]
@@ -9473,18 +9443,8 @@ hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
 
 [[files]]
-file = "mods/yarcf.pw.toml"
-hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
-metafile = true
-
-[[files]]
 file = "mods/ynet-an-xnet-fork.pw.toml"
 hash = "42d15c95ca45494c5bd7262c42e92e724f19729e63e27f8a5d7a10721c5a1e59"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
 
 [[files]]
