@@ -854,11 +854,11 @@ hash = "779a24626bd05542919d84a1b5af3b55d514ef806e3dc1063e5cec085727bdb7"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "ae516a0d153045ab2679350cf15f6d8ae4a246ca4f963e942873173ee4c9dee8"
+hash = "8369a464b1cb2323cb8dbd9b444a5963a73ac39f6c7c2e5ae8c2b02ff7717dc8"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "9c41ea4d386499163228b484b7f9ba016ab1a81d26c453b0cf0566a9bbc3ccc3"
+hash = "19ab6c131804370d956be871a9082e6bf3d2715f3ab7e144d7eddd434869d002"
 
 [[files]]
 file = "config/Weeping Angels.cfg"
@@ -899,6 +899,10 @@ hash = "b0ce852bc9eaf583e3a3befb20e5ed7e96a04343f2a5a3540020a2636032a80f"
 [[files]]
 file = "config/baubles/slots.json"
 hash = "c2731eeccdedf2e1d600a3fd57c986dcdbaf7b8f7cad601c93024c33830cb3fa"
+
+[[files]]
+file = "config/baubleye.cfg"
+hash = "e922fa31338a98913b4c5868c5439e50288293fc114ae561266043c82c5267a9"
 
 [[files]]
 file = "config/bdsandm.cfg"
@@ -946,7 +950,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/betterquesting.cfg"
-hash = "593a6aeb686bd725adca1f401e6b36072be8089ab3f51cffcebd5030763bdbcf"
+hash = "8990dde2dfc38acc3f953e9ee12c2e0571e24de8cbcf06cfdb3a9f3336664f2c"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/0.json"
@@ -954,7 +958,7 @@ hash = "1d3ec34c2431179b3ed6cb5443a77ae327e636077593123f0ab6fcb86b26cd33"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/1.json"
-hash = "cf79170920f5d1647ef17a44530ef74012b2bda00a7470fba77c4cb15f61f965"
+hash = "c8303d20af7cba3ec4e71d7811308393477234ed38f3e31f1ce2a7d13d30bb8b"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/10.json"
@@ -981,6 +985,10 @@ file = "config/betterquesting/DefaultQuests/QuestLines/15.json"
 hash = "8489518a5a05dbafd7c4ac86b9e5168019c46038800e0bac76cc5f04e80852ba"
 
 [[files]]
+file = "config/betterquesting/DefaultQuests/QuestLines/1548222032.json"
+hash = "324908cc7c7599ba00c3fe14ea6a0e34e122af7e9563fac53e4af1e3e905e4bd"
+
+[[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/16.json"
 hash = "36615d7dc8cf4eb4976fb3eb6b5219520d4a3d419f5cb7c240ea0127fb06f5ea"
 
@@ -994,11 +1002,11 @@ hash = "1a46c2a17746c83b07a72c911e72d272f43943e80a91aa206bbd55aec617319f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/19.json"
-hash = "dc4e2bf4cec1d389d3c4b30688b77c71f496c74f2b392bceae6359667f7a170d"
+hash = "50f0782382f1ad8cecb264018180f8fbf418db85dc36a19035717305c848443b"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/2.json"
-hash = "cc2b951c42b6fa4c989943db5ab19c334fb46cfdb4f1b27916857e49127163f3"
+hash = "26f3e4f96cd0f1d0e700cf5b88d49d5e7818e8dcf2a991a3ac1b2939a41099b7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/20.json"
@@ -1034,15 +1042,15 @@ hash = "dd6a7c9a89327b424603ab3c5aeb4d6cfd014ecaf49c19ec02a41c8a531f4845"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/3.json"
-hash = "5fed68f77e74e5f1e1ebf0b582b6a185db3cee545393bfa1d477a7807037ea73"
+hash = "194debae2b638a026af95c523a52361e779d6800c7b9088ec802c86084b83d9a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/4.json"
-hash = "c22275601138ccf69dca6104a402ebc520e210bb1668628b7241546c4a371d97"
+hash = "a20c48a30e5bd54c5a5ce9de9bc9044b47665a10d94dc6b956de66f5a359c6ba"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/5.json"
-hash = "7671113e854d6cb6fba4b508e2f6f5083716b8ccdef18013bcdb4e02450a248c"
+hash = "e419bb4a3f80fd2b38b96ac49f5a9f85cc2157e81304ca65e3933e68333323f3"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/QuestLines/6.json"
@@ -1350,7 +1358,7 @@ hash = "9c7e370902f0889aa9de343fcf205bd0fd0d015757af93d549644be1ac4f7644"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/0/97148971.json"
-hash = "12ea25465ebcecfa5793f703ded4e093b5fdb742ac059ab3362fd9c859575f4b"
+hash = "5c74dc24eea2ccff7616667f9b58467299c8655d394ad6eb48ff7508a3132c1a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1/10.json"
@@ -1402,7 +1410,7 @@ hash = "c8c47de66960aed577c07f8e027766c593dee6c6a581cd27bf04888c39b208a2"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1/31.json"
-hash = "0791ec7a7ba7c5383f015bce5bd584c6e58888a833639a45e4aca62ef4ca80a2"
+hash = "cae0d2e6bb1fc815971e638dacdafe7c55fd727d2c052063cf803d99a0012a6b"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1/32.json"
@@ -1466,7 +1474,7 @@ hash = "43f453641813803fcce01693665f59a5f777cd0894ac7b9976494b42141c4a4c"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1/48.json"
-hash = "2ec2ef31d234fba3f392621710555b6b0d4dd983ee287109c7a2839284ca3262"
+hash = "647383fc5e99c475a44f0a75b291f74c87d52c7af56415e775f7e76a3b29971c"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/1/49.json"
@@ -1946,7 +1954,7 @@ hash = "ce2680baa687dc1579b8aba770604dc28f63dfeb4f956a65f8342a65cfc6eac5"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/19/617.json"
-hash = "5ce503f92517321b0bc700d0fd1e3d271763bc6d054728ad4ded6a0fa5c263e2"
+hash = "74c1bb6ce8b69d1b3ae09d958d3459dcec49d7244be33d6c6e0d97d5125ae5f5"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/19/618.json"
@@ -2130,7 +2138,7 @@ hash = "eddf28b12f8abbbbb62e138c8a88e3de7ee6b43b83a59c00a8e045c18af00f71"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/193.json"
-hash = "84e7e0d257090e6be148756413164c616b37d68fbe9d476aa49118e71c40fabb"
+hash = "0ace34b826fc669d893ef031b14dd085577bdafa345cc5b5088eb60a7cad69f7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/194.json"
@@ -2150,7 +2158,7 @@ hash = "bb95258ff309baa365449de3f51db23dc6acacb88696f7d71d59cf984d5d44fc"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/203.json"
-hash = "ced415218227f99aec2103bee7c8134aa58d21798adf2e1ff0a75ed216e5026c"
+hash = "ee8de0e723843cdada443daee64fe5a2d386e178e763a889a771bcef02ce2ac7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/205.json"
@@ -2198,7 +2206,7 @@ hash = "3960f88b1e9c32ad4afbd14c993d38f92722e1b36c7f986405d7dffdd2339752"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/378.json"
-hash = "92e3e1235859c4388740416a87bed978e269bc4094577745e560e61592bfcafe"
+hash = "90cc54b66d44d91f7f75dc4767a13a54d40a7773f29b14a53c1c4f8fa8c09f0a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/379.json"
@@ -2318,11 +2326,7 @@ hash = "f1fadd664df8c5d08847b7cc8a6d848d1167b07de71aa160e3de6bb68535ae2a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/2/99.json"
-hash = "04010cc64785c2a8fa8e949d773536cc0cb64bc1bc840eacf36865b78e17b188"
-
-[[files]]
-file = "config/betterquesting/DefaultQuests/Quests/20/1319198702.json"
-hash = "dde76330dbcc9599ffa784287f290f571a463d9ff33ae6a515e9ad0e58d33b95"
+hash = "20f6c494d61f33fdc2fb40e13d949c8ec0a9fc1258053313282b341bf73304f5"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/20/442.json"
@@ -3546,7 +3550,7 @@ hash = "8fceae58ac4b05995a60d5a12879ce95c55ec36fdbeeaa5897b3dabe5bd8a44e"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/3/502.json"
-hash = "6b4a5249ba06210691183ac9e7d14b151fb946a94f528868410b138a79de9b81"
+hash = "922a7b8bc0ca83ac5f868bfdfbc9b0b56c2129aef048cedcd81fd75e764fcd32"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/3/503.json"
@@ -3730,7 +3734,7 @@ hash = "9eada86c8d4b194ab5c3786fef1b95855850d1ba3c570bda03b7aba83035511f"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/3/877.json"
-hash = "32c62288e8dd1bf96437b6f5b4c1677320d59093f97db4caae76abd2941002d6"
+hash = "191174216c72ef28d61ceb3c364d3ca125422d8e67a2502207b78cc471474d96"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/3/880.json"
@@ -3838,7 +3842,7 @@ hash = "a604e0bb131455a40c04d0d651d42b8bf64752e237c1c78d7045e70ec1762ae7"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/620.json"
-hash = "0832e5ee0dce931125b5f8e538192aba9974ba3d8c1dad7f3ef8386190ca4b3b"
+hash = "abf5673fd50092d6d2a234a90eeee0370d2c4fdd6e49fcd7b9b478f888407843"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/622.json"
@@ -3938,7 +3942,7 @@ hash = "5cbef32933c0be7eb87c7c193b382d9276559ac701129de4852720ed0bbd8d84"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/680.json"
-hash = "5c965de9ce9a80e9642a10efb59d47eda0889393465abe27d4ed61116c239f41"
+hash = "b4b1a1b0c7d5715538f8825c71aacfa5302529569f86157e3e77b18acb98b978"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/681.json"
@@ -3998,7 +4002,7 @@ hash = "400c8c5fb04b00d6364bf6f8b6189d2eb7e9fff12acc0a97fd786cd936f6bdfd"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/706.json"
-hash = "9ae82180f97b97a54bf2d84cf03075cbfbef8c02bc7df3808fdd7b7d7e9b17e7"
+hash = "6cb93433dbaebbcfc38574aeebe87c62c34f9bd7f333084dd63efa10236c73e1"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/707.json"
@@ -4066,7 +4070,7 @@ hash = "0dc290fd59af9c1b4e1c8a6026c1663a2342950966dabae019fdfece52c1c69b"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/866.json"
-hash = "e26436da701569141fd319c4f0256e1992789f0d3ecae468719c881c802df2b1"
+hash = "8b87721dc28d68f95d6933fff46244e40cd38a4aefc6d97b477ba61ac4ebb4fa"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/4/868.json"
@@ -4142,7 +4146,7 @@ hash = "7402ed99866961b0ee27f1b6229b50fd3ac70d3244d6c5878953770b6b57633d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/792.json"
-hash = "86404470ab53aba912ed156e2a02ed8f296c32eee60feb3d09fd09a5bcf2a0d1"
+hash = "0ff08b9c329a655ec747f469454fd3f27dbbba20e17a6dbbb7503859addecf96"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/793.json"
@@ -4166,7 +4170,7 @@ hash = "674819c8a2238dbb4eade647ce4d18f11d666291c070d52bd38e42393acd2421"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/798.json"
-hash = "2d6490e8722068c53a6538a526cecb835b28230e80a4fa1a7405921cdf4a0a68"
+hash = "b44734bdefd49c867cca6078fc41d9accb934aaeb03bd9cf362bf1a2ab8dea77"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/799.json"
@@ -4226,7 +4230,7 @@ hash = "68ece2f65505da271f9a9dd030c73ee22cb4f29a6fd442dd0442ff8cec9888b5"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/813.json"
-hash = "938c5b6e6ae052d28bbf13579d3d58cbdc92eb6dc9f9a3fdd51b5995344b43ca"
+hash = "3a1446572d4c5d02b721c958f6535d9181b884741cde9657394e12bd3be8cb91"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/814.json"
@@ -4274,7 +4278,7 @@ hash = "e49389ebaa5c1d0e88044cc19a651b0a54ea2e53742e66966e52c56a16bf3677"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/827.json"
-hash = "2d3b9fec974e603860da8eb4496d6f68e51dac73da28f3fde4f6a8638d2e5637"
+hash = "4f407440e46f976efdf4e6f29fed381f8d4d7a49e6faa98cf9d37e8b40b9e697"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/5/828.json"
@@ -4298,7 +4302,7 @@ hash = "e3b0017fe1ab58f07939c0b6f94ff6e6d654b382a9fbf6501658abc2ba9695b2"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/104.json"
-hash = "72ffd9b1577800f604932de82747bff837b411ddc1a180206e309f9f42574883"
+hash = "6291db0f3d2f2a88ec3d6e1079c9e3a0bf7d50d85983c977bc80ff78c70aac15"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/110.json"
@@ -4334,11 +4338,39 @@ hash = "528dc215f33c9b05e29ea8f7fa7cf841ca79fb427e4883f2eb389bc05b1750e3"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/128.json"
-hash = "74ccf83a29c44212e28e635f2471a08a8f4ff099aa68c1ba7bef6d2f5d74a527"
+hash = "6b708a95f8bdf3e8140186e350913e0675405a4cd0f8b52fca09eb23cbf78109"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1319198702.json"
+hash = "c936b5657ae54c4639da1b84a5dfd3e1b5db3d6f12221affcb67f6e9e21d5d80"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1329442186.json"
+hash = "9aee180de61c2d831768789466d8295cf46a7e71feff16f62be14988ec09bf5d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1403511944.json"
 hash = "33e18674356bf4d6200809989e1b961e043c00c3ddcd5daf2e236a70bdfe12c4"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1424901168.json"
+hash = "c25842ec8a84e6fea1a54001c8911d02df4cec34cad511747d04b94826e9cff8"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1565439564.json"
+hash = "0ffdf0c18484eebf0a507ae0172f965daa66d534206e511c49e908720e820953"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1586872556.json"
+hash = "1e25a8f8b2db3a5bb27d2c4727b5a79c497beb5da90578f5dd0f699187dd9ad2"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1703733058.json"
+hash = "4cb4f94836a722103dce462ee247499ab330a5d8faee3c83f439d1825f8c5819"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/1710745200.json"
+hash = "ed87ec78b27178de562d2cc4e3d819e7a0a1a7e6778c51c1c757ac65436889e3"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/172.json"
@@ -4430,7 +4462,11 @@ hash = "438030d5da46dd96d39a33bba3c9397bc74d3919e1f74e6e29c7609a4b948e24"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/243.json"
-hash = "9eba6c3aa61d6f70688cc8df9584fecd0bfc45b0eb15554b9062d7b7385f2c43"
+hash = "c16a84d1aedca4085e1b3c257e88305d59102438b655b234e4e26eaa226d59d1"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/277135225.json"
+hash = "d18cc198109da4e4953503325cd452e62fa6978ce47d67a6958582fdf558e645"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/30.json"
@@ -4474,7 +4510,7 @@ hash = "d6ae1dc2bb510813ce42fcefa5a04e67637be6185acaf374fa5b3a1642a20018"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/394.json"
-hash = "358f1b30583775b4fef97a4e261eea478650eed3bd74eb3570638acebc739aa6"
+hash = "8238c644d98c25f379faece135b05f7452f5056db8bf64dee093690b3617cac3"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/395.json"
@@ -4490,7 +4526,7 @@ hash = "6b0ba7bebb6e2b7d78fe8ba1bba19c0d3cbfe47c9fae62a538ae39c356061e12"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/398.json"
-hash = "4311ed42c27cee0903c2e14ea3d55d1a856f6692c1ede54b720e8eb8316f1d6e"
+hash = "9b30a61041074f04570c99bbfbac13962af4e30af72e36f9c1d67bf8e537f7e0"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/407.json"
@@ -4533,6 +4569,10 @@ file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/443.json"
 hash = "a169669f43604e45d7be6d2dc41568939caa8570195cc9c44cdcc6d63c668396"
 
 [[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/444684218.json"
+hash = "5bcef1260cded8453ab55dc39f3ffc445c98f7fabd340aa6ffd46ccdf5b24953"
+
+[[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/446.json"
 hash = "56b676a434c145b56fcbd05d1a688de79304e4f4bc27bf430c9cecbee4b9dfb0"
 
@@ -4570,7 +4610,7 @@ hash = "d2f5bfbca0ebb7386b350cc52ae9c92c962d182930de1acd6d3ad03d019051f8"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/479.json"
-hash = "3cc12858aa66370f714bd307cca7725f64625f5f9498807460ba5096b2249a34"
+hash = "9149312aa89542061b9d42e38731fb45c0beba4ceacb8e73ad9b63ee3f3f4f65"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/480.json"
@@ -4646,11 +4686,11 @@ hash = "7e348886d792b0597419a431420ab79e09f16dc38959c16c42b1eaa34dec5116"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/54.json"
-hash = "8be479607f09c0cf726dd4ec221185ec6a0d99471c86e88ed479a3b2e16dadbe"
+hash = "2692071f0d5438a397112034b20648a84c685de9e9b3b02f263edefa4654627d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/550.json"
-hash = "665e07a379049aa326aae163ee1ca170498417831d0e0eb4fe6ede9a7c0c89a6"
+hash = "785be1bc821ff44d2e47ed0dc16a290ddbbf0e34d5a4b2e11f1aa95b65348b4a"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/563.json"
@@ -4685,6 +4725,10 @@ file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/621.json"
 hash = "24d024e55dfc25e17e637b3104281ed9077d6118fd24c908e051ab77b3c33f2a"
 
 [[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/625044001.json"
+hash = "36e97f2242a7e5dd5a7fd363937e7f130295622d92756b9ceeb9e88ef15c1c5c"
+
+[[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/638.json"
 hash = "14e7529deb9e020c422bbc67fdfbcf06d0b973f17fa361713da9f9c864243250"
 
@@ -4702,7 +4746,7 @@ hash = "3b3fe2b075ddfc51810c247726360ffbad4d905af8f20f931a9be90ddb7f4825"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/66.json"
-hash = "22c42270ecb1d437b139404333125595ad4708496d3d3465ea03b0aac2e13316"
+hash = "739e45bf7d9de672e31201c4fe346f8c3bdc3da778dd5b43b7bdb96613de0c57"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/685.json"
@@ -4722,11 +4766,15 @@ hash = "29153b76d2e59e31d574b9a5533e838473cca59843535878ce303b6673f5244d"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/702.json"
-hash = "bc537ae1110d270250ccd61446e60b2e93d7599efc7317eaed788830b749a291"
+hash = "4bc1e754d68c4ef9bb61339cb06b2663b5328ccb401722a9e0e642e625469401"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/702454111.json"
+hash = "7b30d675f100d724a388ae059027f9cc41910fb7820c6ec45ccd9f3448bf00b0"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/703.json"
-hash = "b7882b6f3bc5057776e625939a628803d7b05f89ed655e8aea44ffe172e53842"
+hash = "b1b3ef49f9eb763e17bb93da075f736b51fedcd0f75328f902401b685cac83c1"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/710.json"
@@ -4774,11 +4822,15 @@ hash = "1d95079d51d8c07abf325cf06e20eabe08735b55fe4b03753cff617e61e690e0"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/751.json"
-hash = "9a3c472e4f336d2d86b7db61039a6ef7167593a8a125df6d41acb186b2755ae2"
+hash = "99cc86732668b5044b804e736b5e9d055552a050a9df3a70cbd4872879d83276"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/770.json"
 hash = "9a92321fbab6fab92dabbab5229669c391784d105aa3d046785501e82644a279"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/777592558.json"
+hash = "3d812a7680229cf2601c83edb6bc940c39750f4c3d773e3ce83a186f1929fbdd"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/84.json"
@@ -4787,6 +4839,10 @@ hash = "69ca9970f6db4179c89be41ecddeebd1b250a7741536bef2eb037a848092117c"
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/874.json"
 hash = "91d91325b5125ab8b32b4ffe37dc5fc413f3d30f49aceb95ba10bf62bb492855"
+
+[[files]]
+file = "config/betterquesting/DefaultQuests/Quests/MultipleQuestLine/987632600.json"
+hash = "b77cb7182590e73df8bf105a8d2c3ef2f0bbc5fc39184ae0cb9e690f12a927ee"
 
 [[files]]
 file = "config/betterquesting/DefaultQuests/Quests/NoQuestLine/177.json"
@@ -4858,7 +4914,7 @@ hash = "b774a1a6bb0ce1e0d4dccc0b2ae740aaa8dea58be90d13ab227aacdf002e0b7c"
 
 [[files]]
 file = "config/betterquesting/resources/supersymmetry/lang/en_us.lang"
-hash = "c7c88756772c394cba0039adee0d431083359a6ddaccca9e91edb9865231b5de"
+hash = "23f2ef1fe61a811159b001863681f8b689de738f84deee4856c9bca9318dd29e"
 
 [[files]]
 file = "config/betterquesting/resources/supersymmetry/textures/gui/supersymmetry_gui.png"
@@ -7287,7 +7343,7 @@ hash = "b47c6db2645183ed892d73338a72779829f00017d2c5410c8ca5190b38dd0139"
 
 [[files]]
 file = "config/littletiles.json"
-hash = "28b03eff9d51f78be0d69efbab2caea4a9f51cbcfa8728deb3bd4b3df77b1fa6"
+hash = "4c1874f4272137b8ceb13525087fdc4bb5eeca483318443bdbb9979672e77cc2"
 
 [[files]]
 file = "config/loliasm.cfg"
@@ -7422,6 +7478,10 @@ file = "config/packagedauto.cfg"
 hash = "9cbfbc54620e0e3060f91b46df9c87d7720c1d3ae4d2e1cbc22be265616852a3"
 
 [[files]]
+file = "config/pickupnotifier.cfg"
+hash = "c08df9d0032304a1aed9c6c05070e72894ec238cd9c81bd36788b2ea4592c708"
+
+[[files]]
 file = "config/placebo.cfg"
 hash = "77919b9509541ecf9882c91cd6b73b8e2c31b8b2f7157275c0ad6b8e25fe769b"
 
@@ -7523,7 +7583,7 @@ hash = "785a2816aac76c01056c693e7759bf6d830e469313a0d0a2f0a22cf7db64aec0"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "b27953b7959612a48fae11760f794fe32f39062ef7da51a8b041e8bac1c54330"
+hash = "2c2d58a3daa2bbcbcc7852d7251a492ab90c2cb71fec0a2e634da3858ae34943"
 
 [[files]]
 file = "config/randompatches.cfg"
@@ -7531,7 +7591,7 @@ hash = "4324e243701ffe7b414be9f2fbc8a2aed48f2f125e0697f80881805f3f97f849"
 
 [[files]]
 file = "config/reccomplex.cfg"
-hash = "da17d62a4589450f1ea5e3f18e04b9f706e6ab4140430b08e17fac1d07bd3820"
+hash = "9c44c9df349d4c9757564732fc80cec5b88900d57e86ebd4dad0c6ae9945b8fc"
 
 [[files]]
 file = "config/recipehandler.cfg"
@@ -7574,6 +7634,10 @@ file = "config/shetiphiancore.cfg"
 hash = "11bfc5566ffe29d45dc4d4039709083e87113b29159947d7dbc7fd94c41be61d"
 
 [[files]]
+file = "config/simple_trophies.cfg"
+hash = "0312b3e47ba4fc11c74b98f111995aba0c1c258185396a7298c97d2210d2f7f4"
+
+[[files]]
 file = "config/sledgehammer.conf"
 hash = "63f4ce1581cd0d7a1a498b874ea9263832b910f5ef6ef1b0bdfd6edd450cf54a"
 
@@ -7604,6 +7668,10 @@ hash = "194acb9bd0e01030bab2b5cbc8c15fb2968e44a92be2b68a396d128969ac8918"
 [[files]]
 file = "config/storagedrawers.cfg"
 hash = "86f3ef9e4fefc045f0fd51b296c47794d862fc2493b0d5cde32c7af84ed19f7c"
+
+[[files]]
+file = "config/supercritical.cfg"
+hash = "aefc333698faea8be8edab60991d1f0f4a56aa743819d21b860dfc31233f5e41"
 
 [[files]]
 file = "config/sync.cfg"
@@ -7687,7 +7755,7 @@ hash = "10c212439ac422358b053ebaab8b8728623a0533ca944e6958007af40e947f22"
 
 [[files]]
 file = "groovy/classes/ChangeFlags.groovy"
-hash = "8a34c93efac730ceab01ae8ffbff8e8b93c10a8b47d60b520004db8aec295ef1"
+hash = "e328da8ac776e14964c7dc6879026ca698ec5a74c68de9ffb0a0ae19d6e510d1"
 
 [[files]]
 file = "groovy/classes/ICoolant.groovy"
@@ -7751,7 +7819,7 @@ hash = "488fdbff4d07b6c953622aabf40e701346763ae0224763c854219d06967f7adc"
 
 [[files]]
 file = "groovy/material/FirstDegreeMaterials.groovy"
-hash = "f2f2af9a6671243e3a53eb9c12dcdf2660a35f0d493e07a308499534ce0ee932"
+hash = "90f53a9457fc6f68ff77ff9643e0f2bc11b320518cd29e1ff3ff9c74f9d61f75"
 
 [[files]]
 file = "groovy/material/IsotopeMaterials.groovy"
@@ -7763,7 +7831,7 @@ hash = "f6ddee3c00a1e6c006764a7c7941c9a58cbf843e01458a8422e29c1fcc91b023"
 
 [[files]]
 file = "groovy/material/OrganicChemistryMaterials.groovy"
-hash = "6fe3d36ff27c04285f696f12443e5ef7cddd090685530977920603b4784a2edd"
+hash = "284262c7be6e4bc295da468a54210d5e4bbad638f02c0a8e270e2aeb0ff2d953"
 
 [[files]]
 file = "groovy/material/PetrochemistryMaterials.groovy"
@@ -7771,11 +7839,11 @@ hash = "4016358823ecd1e061fd2b932628c14f1117ac8e900aa9e2a99e1b25ad5b189f"
 
 [[files]]
 file = "groovy/material/SecondDegreeMaterials.groovy"
-hash = "5750c35f10eaf2616146b4706271848e889ef0fe94c5497f68e1360d6a67e4dc"
+hash = "fb1193f90ffcc50b3a7700659bc97090d32f30abb71af75c89faac4ac7ea8094"
 
 [[files]]
 file = "groovy/material/SuSyMaterials.groovy"
-hash = "949d8b7f12c11cf1787fd5c5943cee09dbc57929ccda3aa140e6e9c58f2b5b1b"
+hash = "addc6d2cef66703418f99ddf47dc1e7f99d3847b1b9f4351f2d85c604189de68"
 
 [[files]]
 file = "groovy/material/ThermodynamicsMaterials.groovy"
@@ -7787,7 +7855,7 @@ hash = "da084d4636a845b7d53114e74a827310261dff7e160fd928ce263454be70ab7b"
 
 [[files]]
 file = "groovy/material/UnknownCompositionMaterials.groovy"
-hash = "910c507004ea2a92adb8c21bb888c035bdc32b72abca2a3e16f7f1f46f3968bf"
+hash = "f7e9e587ce997d69e65c3de4d31152d4940800897614ac4ec1b093dc0bda4405"
 
 [[files]]
 file = "groovy/postInit/biology/FermentingChain.groovy"
@@ -7795,7 +7863,7 @@ hash = "f0410de0e5eec1e22d54ddb17482f732b94fd0e39bef9b6f32700d55360ef3f9"
 
 [[files]]
 file = "groovy/postInit/biology/GreenhouseChain.groovy"
-hash = "130c94267b2ded8e5e0727cc1749a723c5a27ea7ad052d05405c9fb59cf75178"
+hash = "cb6aa92a79bd4e76c6f81e4802d9712cd37fbddacf094df047e780a21bc22d90"
 
 [[files]]
 file = "groovy/postInit/biology/PaperChain.groovy"
@@ -7807,11 +7875,11 @@ hash = "f5de21cbd99dd7f43e5798b60c06ea013d98f5ef60266b9fa833f4971097bebe"
 
 [[files]]
 file = "groovy/postInit/chemistry/Catalysts.groovy"
-hash = "7caa464f15d206bc16c08f112710ae52bc6edaf1ab7cf90d9952267c9e2ebccb"
+hash = "a329491977010dd1560e4fccad91d5cc0c96868767be671134e1b893efbdab28"
 
 [[files]]
 file = "groovy/postInit/chemistry/ChemistryOverhaul.groovy"
-hash = "9412adf688a6e2d7ec99a1693ad8c5e5d56613f1e96cf7e7f5a411d6fc86007d"
+hash = "a84caf1c2ac74cfbe5ad5fe12259d9f8bf46d18d0c148430907cae79baa0ab29"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/Dyes.groovy"
@@ -7851,7 +7919,7 @@ hash = "4b73016d1e49ecd70e7a558e4f53e85abf7e6bdb478040a7717a78bd90854aeb"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group11/SilverChain.groovy"
-hash = "1bd4a9006abe90269449c8cdccf3d7d16d7198850668ce59520f070330eb4c41"
+hash = "fdc8105f8ca78963b531a22b71a67600597a4f032f7ee9d0103a6964ff73e219"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group12/CadmiumChain.groovy"
@@ -7903,7 +7971,7 @@ hash = "62f968d09d50a509fcdbafbc051c33d917c4070f5dd814e96d110b8517a95d5c"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group7/ManganeseChain.groovy"
-hash = "167d0c658f67fc82d615263ea0c0674e65fa20ad343317490810bf68be1d8e48"
+hash = "839c6cc93edada2a291c11ff971e187d57def3bfc8be949b7aa3efb164cfb2b3"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/d_block/group7/RheniumChain.groovy"
@@ -7927,7 +7995,7 @@ hash = "5b189466c3b2e6f88ab5d87b35616edfa146c71aea643c1ae9f91b75a64d16d2"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group13/BoronChain.groovy"
-hash = "799e9f1a6f1d56fdcc75d167c4f9ba4c33012962eea933e85f51e29c647b7437"
+hash = "f004002ed29c513b6dd8655957919ea9fd5dfa0121e88b6da839653569bd6156"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group13/GalliumChain.groovy"
@@ -7959,11 +8027,11 @@ hash = "9e55a0d890d281a210d630cc302ce9e8a2b5eab2f56874d3c7176a5913a78d61"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group15/AntimonyChain.groovy"
-hash = "e14f4716338ae319eb8da0401e7c87ec03501e39b13e576ee8f0b6f79f6b07b9"
+hash = "a92ff4a7155241db75e27cb2f3f1a68fb69dee0ec8997f7a33bedaa2d0f2f221"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group15/ArsenicChain.groovy"
-hash = "0eacb7c0fb12d97c436bd49aab6b4957db6a86eee48119829f8ed1292e799b0b"
+hash = "871ed49861f1bfb28c0a4f5476d7fe4abaeaf798ffc591091289aef84eb04924"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group15/BismuthChain.groovy"
@@ -7983,7 +8051,7 @@ hash = "25c6836f909faf5fce8a16ed7bd24b1bd3eab2eb68713cfad3d23a22bdd4630f"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group16/SulfurChain.groovy"
-hash = "c02e040191479e742388cf97d1742f897af481d877e7b06d1486a1fbffc9b863"
+hash = "e6f26f66b49276dcbd73eb2b68245869b2f45e05df3fc5dd674debfb989f74d8"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/p_block/group16/TelluriumChain.groovy"
@@ -7999,7 +8067,7 @@ hash = "653a4db1a980bb53faf82ef9db5adaad248e44fd58d277ef26dbeb0226274cd8"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/CaesiumChain.groovy"
-hash = "5a4441ce72827d9fdb109ddee7aa723bb834d5252503be86f3e1f6328048e55c"
+hash = "596d9a86230135968823a140670a5b1f72044d5ba7a1bc1120dc541b02fd91e4"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/DeuteriumChain.groovy"
@@ -8011,7 +8079,7 @@ hash = "496e45309d0b5ed10e4f23fa408b281458b4258c0cb156f14e28dd9db9322561"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/LithiumChain.groovy"
-hash = "519801a29f6fc32fcb74482b04a268ff862d4f746d7531232af91863dca1f008"
+hash = "9e15901a4288b53ba0088e8780738879c11e0cfece7048bba894a3e8b176e05a"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/PotassiumChain.groovy"
@@ -8019,7 +8087,7 @@ hash = "556d9704345e8eeb2e657a0ae41acf616d9b553dafe8c5e026fd2a6a93ad4f0b"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/RubidiumChain.groovy"
-hash = "713bd39e3cb7153e5cc17f28d4f7ceb931d2e07213f6d60afb6af00a162278c5"
+hash = "966e41836da825d30b9d03f4bdeb933f57f27cc34d9a448ef0ddc332d6bcbae3"
 
 [[files]]
 file = "groovy/postInit/chemistry/inorganic_chemistry/elements/s_block/group1/SodiumChain.groovy"
@@ -8047,7 +8115,7 @@ hash = "7748c7f9faa62fe87f9564e80ff40c4383fd7b6ec43deccf5e7ed46c76e1b459"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/AlcoholChain.groovy"
-hash = "e89dcf5006b13b4104c8dac39bc87dfb1d896f6edd5356273bd2b580126c8ee2"
+hash = "3d6e81dab64a5d6e23ec343a1e7c6e4bcd4f3874abffffa0ec1343d7820285ae"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/BiofuelChain.groovy"
@@ -8063,7 +8131,7 @@ hash = "e35da3180ad45dc88b8254f43edb03516c9704899371c58e34286c5ba68ad0ee"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/Extractants.groovy"
-hash = "1f83ed17626b7279cc2f97e19da1427b43e9accd966da5a34898ec42c5591392"
+hash = "09445e58fb80a49dc4b1fbedd37c1e6cc895f8d6b93b2b753ba8a8e8b63af628"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/GrapheneChain.groovy"
@@ -8075,7 +8143,7 @@ hash = "cab51e24752fdefb6322cbec0d136cfffa35c9372d6251dad74015ac0b2adc60"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/Solvents.groovy"
-hash = "3a45b8129ec0a5d1e541e5dcad352d96e8b093cf033620c1f5a8499e1bee4a12"
+hash = "7ec02841c2247dd8215ae144e673b139f7016089a1990a032036d45afb311e2e"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/Surfactants.groovy"
@@ -8091,7 +8159,7 @@ hash = "70a7d19bfd4c67aa1680b213e0e062113241c85de301ca3b29f8b2736256e159"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/petrochemistry/Fuels.groovy"
-hash = "711f6da1f6c4f46327c2e5cc1a9a32d9925fd6c792c74a7c8a0d89db6099ea9b"
+hash = "d36fd397634f02c0d8650214208a5b7a59a72f829e60bb67aa8bf742718e91c1"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/petrochemistry/GasToLiquids.groovy"
@@ -8107,7 +8175,7 @@ hash = "01a30d6146d518beda3446c328464435af8caeb3db287c36368dcca287b65b64"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/petrochemistry/Petrochemicals.groovy"
-hash = "c6fb4ba5519bbde6dec4e6d842551511bed623f496ca33faeec3e530fc4ab6e5"
+hash = "7666a2aa28f7d57d0692df5478e1a275842748d5b5b73d0b293a63a03be9dff8"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/petrochemistry/WoodPyrolysisChain.groovy"
@@ -8179,7 +8247,7 @@ hash = "378a72b7dd002b5caf52a08aaead272179fd919cda9cfc01bbfa77c06b8c28f4"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/polymers/PolydimethylsiloxaneChain.groovy"
-hash = "2e089ccf90834e3874c27db1150aa9f954d02f9284ad688db4266ce99b59b7ef"
+hash = "27e23ab47d891947d3d0f56e1bbaaa7afb1b3c7e293a8742e2b5319bbd3d76d6"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/polymers/PolyesterChain.groovy"
@@ -8203,7 +8271,7 @@ hash = "04ac0117159d44a5262711a0aa50eb01021d5985af9d8bdd8cc5928db5f01001"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/polymers/PolyurethaneChain.groovy"
-hash = "f22adf12d29b5dc2b3dadd31e4f5a9cc6b120dc56ffbe0065a79e77926036ddc"
+hash = "ac3fdfc568cd57569af6f2f6dac0e5a572ac3e58fe3d610707788d396f55d67d"
 
 [[files]]
 file = "groovy/postInit/chemistry/organic_chemistry/polymers/PolyvinylChain.groovy"
@@ -8255,7 +8323,7 @@ hash = "d3ba47c0492770c70e80be858f540bf737e3f65eff68552a586b3da4a3c5fcda"
 
 [[files]]
 file = "groovy/postInit/components/SMDComponents.groovy"
-hash = "ad9cf21ebaff07cd40cf6ce2c6ed6917a99a6c20e784c3147b0e75498c70569b"
+hash = "6af072ad43a9541feaac0ffc16884defe0cb6d0a3038cc7a936445bcc83f857e"
 
 [[files]]
 file = "groovy/postInit/components/Sensors.groovy"
@@ -8287,7 +8355,7 @@ hash = "b59978b4bbf0e3478cbc26d1350ea3f796af9dea0f531ae9a06208b3c8b9bdc7"
 
 [[files]]
 file = "groovy/postInit/gameplay/LootTweaks.groovy"
-hash = "01bc434a5c81806ee084d4931ac22634b839b78d4f5136029c731d800f834e32"
+hash = "bc66b828003fa53a04115d3255e1808fbaec0f45a9a00f1886fbcfc4ef379641"
 
 [[files]]
 file = "groovy/postInit/gameplay/Ores.groovy"
@@ -8299,7 +8367,7 @@ hash = "eda71eb9a572beb7cf1335ae1e97b09190df270fccd16f87e169f88841a5c6b2"
 
 [[files]]
 file = "groovy/postInit/gameplay/StartingAge.groovy"
-hash = "ad2b7f8a1e25386d089b46ffe1828be22bf51f4a1956b4660d936e9281a02e39"
+hash = "1a419f7ec96395e6ffb499ac8b946cf567e5a5a79485e7133559532554747204"
 
 [[files]]
 file = "groovy/postInit/gameplay/Vanilla.groovy"
@@ -8323,11 +8391,11 @@ hash = "216e5af289b957687eecf26ab610b1896fd2880c4df7d83736827e20244d0936"
 
 [[files]]
 file = "groovy/postInit/metallurgy/StainlessSteelChain.groovy"
-hash = "c52c2bef60c7db81f59765f7022761cde4bfd148a2ee5769fbf1e6be10e8abcb"
+hash = "2e6cac03645e177ec3bcacc3b7e7b5e70d6d3a193c1594dc1ba54d1b31fb8909"
 
 [[files]]
 file = "groovy/postInit/metallurgy/Superalloys.groovy"
-hash = "5655832f5219733598d0d4a13cc3b78229a828cd8b7a6340ac74ce177b965892"
+hash = "e3fa292c2bf891feb1057bbd43fbc7b4a315c8dad4ee93cf7e4eb7dced1fe624"
 
 [[files]]
 file = "groovy/postInit/misc/BrickChain.groovy"
@@ -8359,7 +8427,7 @@ hash = "284ecf43f483a694a759c02c6ab31ae5a0f333bf445d47348ae1fb4d33ee4ece"
 
 [[files]]
 file = "groovy/postInit/mod/BiomesOPlenty.groovy"
-hash = "fe945d654fd0b6c1c4bbfd65efb32add260c8b79bab3a3f2750d7086039940c2"
+hash = "f397459c3ad1124ed4d8b764e6d84f1546c45c4c454560553805a899508b5505"
 
 [[files]]
 file = "groovy/postInit/mod/BuilderWands.groovy"
@@ -8407,7 +8475,7 @@ hash = "be7ce8f7093eab10c8f78b7caf3b2454960f670a89d57fc6f2be5e259455316e"
 
 [[files]]
 file = "groovy/postInit/mod/GasPunk.groovy"
-hash = "6deda79d3b808266396ba2a8ea1292e334a6fb6e1003d769856a949d549afe26"
+hash = "04fb0c52809f123a54873b39cb9c237f323fafae0c5025e89ce7f1096f771424"
 
 [[files]]
 file = "groovy/postInit/mod/GeneticsReborn.groovy"
@@ -8415,7 +8483,7 @@ hash = "8a2d9980bcb0456266868698dabef8e2093d4e832b97b4eb4cd4a46a487baa22"
 
 [[files]]
 file = "groovy/postInit/mod/GregTech.groovy"
-hash = "6490118b47daa2d77e72b98da153721d70cc9f9d51456478d687e2d1862369c1"
+hash = "eb9fcfe82e45cf0a266296deb69f3ebf1f533f43850c2a96978c02295cddcc1c"
 
 [[files]]
 file = "groovy/postInit/mod/GregTechFoodOption.groovy"
@@ -8515,7 +8583,7 @@ hash = "b1f83c2b7685b917c9309120c368bd4ba83679263a402a6e651f7f29b628ae55"
 
 [[files]]
 file = "groovy/postInit/mod/SusyCore.groovy"
-hash = "697de6fa264c56f5936dd58db5b938429996f125a22bf54e17e587fa123673b2"
+hash = "ed017cf7500e3005d774b6c2fce5887828846f83f7fd15b23f0f9ec84499c62a"
 
 [[files]]
 file = "groovy/postInit/mod/TechGuns.groovy"
@@ -8640,6 +8708,11 @@ metafile = true
 [[files]]
 file = "mods/barrels-drums-storage-more.pw.toml"
 hash = "0125f216d544c5c1a50158e154bacec24669acdf31c4b14cd9907ea78b6d933f"
+metafile = true
+
+[[files]]
+file = "mods/baubley-elytra.pw.toml"
+hash = "4790dd1b78378e9d843dc3f9216b8049696acad2b5ad26d799b087867da24efe"
 metafile = true
 
 [[files]]
@@ -8834,7 +8907,7 @@ metafile = true
 
 [[files]]
 file = "mods/flare.pw.toml"
-hash = "24fa50f6958381fcf97d902da91dcfec37b9cca60b6eb08f796f68e442227466"
+hash = "44d569d816cf12f3428613e3185c49a4c2cbeba41a80ef6fd8d83d4c77619665"
 metafile = true
 
 [[files]]
@@ -8844,7 +8917,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "f8e22c51b3a9c8f4503e46fdb654253442c3a436f2abf3129297b2c45cfbef25"
+hash = "af7fce859d981cc22e49e7afb32d77b812187bcb976d9aa4ccfb91aa1f674dbc"
 metafile = true
 
 [[files]]
@@ -8924,7 +8997,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech-food-option.pw.toml"
-hash = "70822efab84c2c71a445b1cb56bb847ab657cc84a968a14b0a5992cd28ecc76c"
+hash = "d13d505a09932d08a2c08431c61e3f1b1b4f038fe8c7f54edcafc70941c3221e"
 metafile = true
 
 [[files]]
@@ -8939,7 +9012,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "0fd23ea4700abb69c68b7aab359cba398c199ab16a5f90bf4ec90d170654721a"
+hash = "163b5ce5917f44eb5473df26519151f0762e18382b1ff678678c7f4138c9c571"
 metafile = true
 
 [[files]]
@@ -8989,7 +9062,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
+hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
 metafile = true
 
 [[files]]
@@ -9028,11 +9101,6 @@ hash = "2076abed696e5f140ea634e501482708204a68253b92b6a3fa8e39a796a7246b"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-energistics-jee.pw.toml"
-hash = "268c3eecd93e89e0afb4dbc4a5100042903f8efdff7c75b32ecceed7845d7151"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
@@ -9064,7 +9132,7 @@ metafile = true
 
 [[files]]
 file = "mods/lolasm.pw.toml"
-hash = "d2c61d32b03991d8aa5538fa36e99e84b4932bfacd25df098e74af26af949e41"
+hash = "92f000166d011b85caf6276cd262cbf5adf9cb101d5a1540c9f2bd117c6c5bbe"
 metafile = true
 
 [[files]]
@@ -9079,7 +9147,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "f50f6d7f8fb9a8cbeaa61b2ef04d0028d0999af789ae6946d769b66a0464bc2b"
+hash = "06749d5ef9c2e430dec0243040098e71f1df160f9dacca34ee38459c14275043"
 metafile = true
 
 [[files]]
@@ -9098,8 +9166,8 @@ hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+file = "mods/mouse-tweaks-unofficial.pw.toml"
+hash = "97afad43aab051629f2e0dddcd0aa9909b94b616642a5c5cd0ab1754e8cf9c9e"
 metafile = true
 
 [[files]]
@@ -9128,13 +9196,18 @@ hash = "c592d8593cd1519173c7c9d024fa0f8ecb73c451b6c5d8f5edf50bf396d60d63"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-energistics.pw.toml"
+hash = "4d6580e369384d2786bf9ade5a78cbc03682765b93306fd6f6e9e93d24900b70"
+metafile = true
+
+[[files]]
 file = "mods/nutrition-gtceu.pw.toml"
 hash = "b18d1ef7d85e9abc2b9e747ab8cb89fdd88ecac6c82c83b8c42bacef7171574b"
 metafile = true
 
 [[files]]
 file = "mods/nutrition-unofficial-extended-life.pw.toml"
-hash = "29516464eaeeed5a941b5aae9192a404f189d379b0a5ae2bef49a58919578d45"
+hash = "49ef98c9e26fe47efdf649c9932e851c17ee52ae1596fb5156a486a3b61590ee"
 metafile = true
 
 [[files]]
@@ -9188,6 +9261,11 @@ hash = "1e29c5464f008e221d45a7c7063f225a6f3c500f4bd25079ac3c72bc0f8e11a2"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "1e53a383dcf5fc55d909e7a0b2f72babfb9dc2f52e4c7196535bb970b38d8a89"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
@@ -9203,8 +9281,8 @@ hash = "9cb2f5b33142abe6c3eb9585b0693f828d287573353b2be7c6f1a67026462947"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+file = "mods/quark-rotn-edition.pw.toml"
+hash = "f41d2e13f211289f834fda310ac00283824ebb43a9ec3d267ee15ad93081664a"
 metafile = true
 
 [[files]]
@@ -9224,7 +9302,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "7885bb8ac4efe4c49f9783812d77fe878352e9442f988199f48f55cf1616ac7f"
+hash = "aab4a1e7623f5369e8d838c10dca6a62a7e58d294bcba4c901575a42b7214c49"
 metafile = true
 
 [[files]]
@@ -9259,12 +9337,17 @@ metafile = true
 
 [[files]]
 file = "mods/scalar.pw.toml"
-hash = "e3a22ef958757e82d498d61fe6b44d944879c3147da5f3fdf85026ae48981287"
+hash = "2dc545f49896881f74ca735437e14e30e967a8ec79cb32c21ce1024bdd85edba"
 metafile = true
 
 [[files]]
 file = "mods/scaling-health.pw.toml"
 hash = "ce611cd223f8163c68e1527d9499de1180c287c3dc9cffa7b0a549b4b4f4ddd8"
+metafile = true
+
+[[files]]
+file = "mods/scalingguis.pw.toml"
+hash = "77409dab9f58a882b334ef38e3f98961b6c47eae12480c097d2478d30d57f87c"
 metafile = true
 
 [[files]]
@@ -9293,13 +9376,13 @@ hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
 metafile = true
 
 [[files]]
-file = "mods/sledgehammer.pw.toml"
-hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+file = "mods/simple-trophies.pw.toml"
+hash = "56f00404ff89ec6905b19349f9da6b87638dcf825015f8f2deb522c244c5ccd0"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remixin.pw.toml"
-hash = "b3071e2fb9edc92f529fa49f692f6009734f0cc378024007abd839dbe54e098d"
+hash = "92af505a6c4c8296370a5a274318418c86c4e235b7eaf10061982182ccf57483"
 metafile = true
 
 [[files]]
@@ -9318,8 +9401,13 @@ hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
 metafile = true
 
 [[files]]
+file = "mods/supercritical.pw.toml"
+hash = "348602215a401e9ef6dc28281005909815100668efba34e4be6bca0722781324"
+metafile = true
+
+[[files]]
 file = "mods/susycore.pw.toml"
-hash = "ccbf1becf527f8f66440c9d31ac108823abdd2d6f4c98cbc51800983510cc60e"
+hash = "897f1693662a0c9a1d834aa4dda0948ce17372a1ff79a3a71d9af13c3e5c4a0b"
 metafile = true
 
 [[files]]
@@ -9345,11 +9433,6 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
-metafile = true
-
-[[files]]
-file = "mods/tipthescales.pw.toml"
-hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
 metafile = true
 
 [[files]]
@@ -9389,7 +9472,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "4f2be4a9451756453a8c654b5cf127dc25427ede6b5dba469c138ac6023f8cd5"
+hash = "2847e45f8412ff2a4cc94cc9470b99bb203dfe5ef8aaee174f6e24f00534f925"
 metafile = true
 
 [[files]]
@@ -9424,7 +9507,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d855d6d23f7690087399672139630dd50e31896525c503ce7a2f770931d23de8"
+hash = "4466ff4ec6798e50b2680c3a50f3be42bf9ddff22e0af802b455c27e125b163b"
 metafile = true
 
 [[files]]
@@ -9434,7 +9517,7 @@ metafile = true
 
 [[files]]
 file = "mods/xp-orb-clump.pw.toml"
-hash = "6223630bb345e49f10e93c179c3cbd39b6a76d7e87a37158a69db5983f93b6e5"
+hash = "76d9e8e40d2e4052dac1d24e93edea7c04ed4354fb4a73d41720e8e82833eda2"
 metafile = true
 
 [[files]]
@@ -12286,7 +12369,7 @@ hash = "e88cbbdf24ecbcbf63eb608e6d049deee9ebb5eabacb680cfc3f1d7d92a80921"
 
 [[files]]
 file = "resources/langfiles/lang/en_us.lang"
-hash = "ceec2dc78ea64d33894842947fe3bbad3609a880f61c03b7e9d9d4a1a7748ca4"
+hash = "cf4fd83b5e437763b4778a560e29287d974f8b40bdb7785f469c8f67d8a50848"
 
 [[files]]
 file = "resources/langfiles/lang/pl_pl.lang"
@@ -13306,7 +13389,7 @@ hash = "2afcb187ff794acb8fbed5b76f4a548a178a4d9af378572355ea566f2e4685a3"
 
 [[files]]
 file = "structures/active/LabRoomBoss.rcst"
-hash = "014e443c78255b9711033dff2f837586be7471d3c112ee95275b2577d619acaf"
+hash = "bebb0fc9e9c33209e60f2ab323e647e316bfd1837a04b2770d9697fccebc1e3e"
 
 [[files]]
 file = "structures/active/LabRoomGenerator.rcst"
@@ -13731,763 +13814,3 @@ hash = "b3cc1ae162bad5a8d420c27c3f3c511f0ebc56d0e8ec8786d5b5ad4de0b4e90a"
 [[files]]
 file = "structures/inactive/SpawnCapsule.rcst"
 hash = "8b071ee464b65910331e1dadcd3f9e23111c98176d7f4c1769990b9c54675492"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMaze3Way.rcst"
-hash = "229eb10f39c00e898ceeec087020f8b866f44e7f49f3f84e26bf85c380e56b5a"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeClearing.rcst"
-hash = "1337906c2de909f0b807cbb05e38723f2aa309777abdac3d162e29edca17a419"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeCorridor.rcst"
-hash = "f56966daef3e9fbb16750926aa4db0860e4a7cfedcd656899fa38926ef027604"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeCrossing.rcst"
-hash = "ef57e7d087b3104d68ad9f8758a08780fd6b526b05f6a62bb0655994e49ec6a8"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeEnd.rcst"
-hash = "8f4939a8a1b6eca6950ce0f4e1bc7044ee9e2cdcf3578297a16ea7052d8cd6d0"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeSlimes.rcst"
-hash = "4be827bc521942071d5a3512c2f0e76f5d2c0a0599fbf2d7907ddda9282ae4ac"
-
-[[files]]
-file = "structures/inactive/structures/forest_maze/ForestMazeTurn.rcst"
-hash = "4d8379130e811df8b16f7b67cca4499f951cbfb589b22055f5a6bb503cde6f80"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeCorridorCollapse.rcst"
-hash = "5b763262ed4dddba65615d79bde266ca1b8409ce6d62d3cd378d0d9e48fed850"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeGrowth.rcst"
-hash = "1995edc8d265849783a1f0a28a72096eba9e46b672130c1e035bb19a9971f05a"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazePath.rcst"
-hash = "682dfe3d23eabd98db5a89f754db9c21fc6874153d23d09108186bdb1308a290"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeSpiderTurn.rcst"
-hash = "07e7aea4ac651168e80f2f246ed551f673d79a5cafd0ed8b67ab2228fcebebc0"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeStairCorridor.rcst"
-hash = "8e151034337a92fd79b3a9d5dcfcade642bedf5e122b81f459bd46744a8b9e0e"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeStairTurn.rcst"
-hash = "c59a2246eeec678563d41154dbfd10a81a9015ad358fa94aca73cf88a6400601"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeStorage.rcst"
-hash = "c7ad2d3881411c1b449a201b2c74c1165f622a97b12a933e963e2574f150ee17"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/MesoMazeZombieTable.rcst"
-hash = "8f1449eab63d53a08335fdd56d8c230494b17f3153d7bc4b1e33f6f2a8064193"
-
-[[files]]
-file = "structures/inactive/structures/meso_maze/meso_maze.rcmt"
-hash = "f79786f6b6d00ae96779a5d7ca87ab6c6df3074d88f2af8613ab1308b9a179cb"
-
-[[files]]
-file = "structures/inactive/structures/nature/mushrooms/BrownMushroom.rcst"
-hash = "716b28190255774cc852572e804a0d1946ab058edde44b0fe88b552ac8f61a29"
-
-[[files]]
-file = "structures/inactive/structures/nature/mushrooms/BrownMushroom1.rcst"
-hash = "4708acb63bb3d8d126f882b046a1b0d77854141fc24acc22bf68db0f207b4cc1"
-
-[[files]]
-file = "structures/inactive/structures/nature/mushrooms/RedMushroom.rcst"
-hash = "ccfbdae907da3ac9789fb44e0d0a0efcb6b79227c498914c6c21bcdfea78b6c9"
-
-[[files]]
-file = "structures/inactive/structures/nature/mushrooms/RedMushroom1.rcst"
-hash = "c553f4e7e5de148348be2018cb6bbf8d16e429949c0aed0a8132f8b0e51c9bbd"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/AlascaCedar.rcst"
-hash = "95e378158feefb91e41532d0416a0b8283f654f2f9b95ea49632de682de47d60"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/Basswood.rcst"
-hash = "0c0207791edeb2fe9439348c86c0f9d29017a3ba295fbe8aba2ae3c73b63c116"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/BirchTree.rcst"
-hash = "9135df45e174bd6c1751bf5802f7f0fefc032cef1f78caa6a186dbc0d1b0bc01"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/BirchTree1.rcst"
-hash = "df2456f5808cab5d0fb5ab9b4c1ee1fa7cc79c4601f0f8f173e00c6c482cbe08"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/BirchTreeBig.rcst"
-hash = "677c47f09d7fc56ecd443bf33235d166f12c5d7639370b666052af0384d247a7"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/BirchTreeBig1.rcst"
-hash = "6e4892f64a2a1c1fb428cd9fbc6b5488e4d5c996c57ca975e6b91e3deb48626d"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/DeadTreeLarge.rcst"
-hash = "7c5bd2f94b7cb75c1a1e49ff9e23bd724c1c5b7e23a900049e9af926975f04b4"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/DeadTreeLarge1.rcst"
-hash = "d518e1f15c52c49efe23851d5c6e93cc3cc6d04a2be338cea0843660159df498"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/DeadTreeLarge2.rcst"
-hash = "96796723cd2d41d1024ed6791ad57ca3e917cc5fb4413ee5006a1c740616d88f"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/DeadTreeLarge3.rcst"
-hash = "f4e31b72511f50952314c8d4655c70c1089f104ff9724660bf7a99ac46a00810"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/Fiberpalm.rcst"
-hash = "432087b3eb31f274146140a774d0bcffe1c9ecc999900d9e00b5b36db603e315"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/FirTree.rcst"
-hash = "9d30b175b386ec047c4d20b473ab1fcf83d0333fbe5190aca45a345222370f04"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/FirTreeBig.rcst"
-hash = "a79d7988dee98050aaac5efa4153fc3847e8bb0fe7a639a79e63b966322bcee3"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree.rcst"
-hash = "e9803075409e127c9e6a9baa1baaa086a10002bcec21bcf56463187512b47abb"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree1.rcst"
-hash = "dc9762aa94b13553b62d0fa74098d416eed5668bb9f0ceb5f844bfad1e831815"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree2.rcst"
-hash = "05aec403147fead0e2517220315b679518d637f749a5c293d2107a7957279338"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree3.rcst"
-hash = "c66fbb3e025b53e5b595316b0ed4173dfc5054c00afd9c88c3c68250da8a2278"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree4.rcst"
-hash = "325621967381b19b43483be512fb549ae1b55b7060b1a7d09ad5f48c6260cce0"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree5.rcst"
-hash = "3b31bcc0e9566b3c4b78ab6e333281e7e9f9d57e6737b2059f7ceb39fa4cca31"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTree6.rcst"
-hash = "e8b14f89105b0048e2603f8e7d12e240c66652ea765badf2c7330ee493f18dc9"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTreeHuge.rcst"
-hash = "3713ee71d44539d42b858f36b303fa7e9484b8a4ffbd4cb42da1a07706101d96"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/GenericTreeSmall.rcst"
-hash = "dee66277106f8a0558235fccdff8d620a194779275bf7ef2b648a81fa824dbee"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/JungleTreeHuge.rcst"
-hash = "de9c7e813700b458fe81029d366f38a4e13e670ce76cc15b30869bc59bca7fda"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/JungleTreeHuge1.rcst"
-hash = "8986b6d559c05e69359db5ae90d35a37a61d76f916826a4da39324c37c9a3da9"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/LodgepolePine.rcst"
-hash = "4fa5de57214f06c4ac56080ccd59b925c50c329ea95935ea489b0d64a71c41ba"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/Mopane.rcst"
-hash = "e88a99357f24282679660c45699383a1a2cae41d9d8e74f4109b0777ff78858b"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/OakTree.rcst"
-hash = "c93054ed521923c8b8ccbb1a1432d8c2a47a86a086b60d80d4a7bf476670cdbb"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/OakTreeBig.rcst"
-hash = "ab805f73e3331a8ef626ee9d47af1e01d676db9235a75a740020641f4cd3dfe6"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/OakTreeHuge.rcst"
-hash = "7217cf95d9c44e586e362ac583e22cbac45bfca3e77c6d7c7a3d11f4c271becc"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/QuakingAspen.rcst"
-hash = "1cb74b5c07c1949f0d11527eb0e3a21873630ce569cd5153a829f20f7e8d3d53"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SavannaTree.rcst"
-hash = "bea7bca32005ae223d34de45304463a79d8460e2ba06fa931b18f02a514111c8"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SavannaTree1.rcst"
-hash = "d7181ab792fd71dc8d98a0f0e22a6a2295307e8e49f8be8761eb339f90456137"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SpruceTree.rcst"
-hash = "2228d64b8998f5a934d104ce5ede05120d96f2941197f1fd72d9bb6f85807355"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SpruceTree1.rcst"
-hash = "8bc168ff0a0eebcb05afb24d832ccfe045ba42dfae377e300f084943cda34cea"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SpruceTree2.rcst"
-hash = "685449101eafae496cee9f4f80fecb4179c9b0b477f13191cd622fa71bc46313"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SpruceTree3.rcst"
-hash = "82edcd4ca14beb7eee1d98307dcc57ab564e21382c622f579b3386e3f4df6c6c"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/SpruceTreeBig.rcst"
-hash = "43924aae7e3a15b9f338fc141a1a9749cfce5e153b0568252429da887e2e0daf"
-
-[[files]]
-file = "structures/inactive/structures/nature/trees/WhiteWillowLarge.rcst"
-hash = "0ae66baf688431c7d9c1809d4814b9f0548a9c106eb00c1047c3bff1bb4522cc"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn.rcst"
-hash = "ab54d4cca7e9180d78662a106c4c4f3b273f5b08d21b0a75fac7a0b19c15cd9c"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn1.rcst"
-hash = "197564fc42a438d8eebf963050177cca4475ca5799ddae62554cc342b2406b25"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn2.rcst"
-hash = "7aa39689d55f98c490adeffadc915349f691ab5976965685ea66c36140cf3182"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn3.rcst"
-hash = "5b2af558881da08040aa40db7186be3f69f794e02fce23f4f4ad87f3f0c41a49"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn4.rcst"
-hash = "08b0dbc9c881b23d15e9941724d688249a4a0556cd881806bf4bc43b0026b550"
-
-[[files]]
-file = "structures/inactive/structures/nether/NetherThorn5.rcst"
-hash = "c901d52d3c7e76a5938d596dff3e75d8e7880c9a6e359dc7b902b6eb67c8bfc2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/AbandonedWoodTower.rcst"
-hash = "235e5da70368a4550324a95ef52951e9136d5fc353ef7c580db6b19912dd82eb"
-
-[[files]]
-file = "structures/inactive/structures/overworld/BabylonTower.rcst"
-hash = "c6f6347b35ae021a3abf629cd45fd097374182a3cad0656e902ad530c299d10e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/BigClockworkSite.rcst"
-hash = "fae6efa75209f5e30cbfd5bf75f2f1d1bf50a88c9862d3d8e42753d52503af8b"
-
-[[files]]
-file = "structures/inactive/structures/overworld/BigPyramid.rcst"
-hash = "1703733edc72ef94d8ef2d7b79c66d5177cb457648866d1819bfd8205d0b8c76"
-
-[[files]]
-file = "structures/inactive/structures/overworld/BlazeSpawnerCrystal.rcst"
-hash = "974b83b31d90e957ca4a26596b20a4248427eda5c5a7e059781d8bd910b7403e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/BrickHenge.rcst"
-hash = "a03df6230ed706a6e35ecdbf76f4b01114c5219f469c6c39b7709fbf17824c17"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ChurchGraveyardRuins.rcst"
-hash = "f1512223bb419871b76f07d2c499dbb382cce3ecc6a2c93ff995f2b0ffec38f0"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ClayWaterMound.rcst"
-hash = "ec054920e2676708b1df664a0071152f7f49adbbeaaf1350eea53a5103eac5a4"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ClayWaterMound1.rcst"
-hash = "dd7796071584fcbf3f4a014b6cbe9c3182aa2d68048c660e349ae18f47d9b726"
-
-[[files]]
-file = "structures/inactive/structures/overworld/CorruptedEnderTree.rcst"
-hash = "2008e06407fbcb67ec89def9c060db3578f494c9b528ca256ee056128669b56a"
-
-[[files]]
-file = "structures/inactive/structures/overworld/CuboneSkull.rcst"
-hash = "05d4b81e5362127f4288410546e0475d3bf70eaf07f03095d179e874303d2f4b"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DesertBeacon.rcst"
-hash = "baa1ab7dd37ea0c3db7384f7d245641f410b5682a0e0aef8366787a6d7c496f5"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DesertFort.rcst"
-hash = "81b147b0c1edc1f1b18bda92bef399eaf9b4bf4a6fad7a93d858511b529780c3"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DesertHut.rcst"
-hash = "df6c60c6d0fa963e0ba77add586c0c7915aa28314c8d2171122bbca9152ef802"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DesertWatchtower.rcst"
-hash = "84b8a9e1bc57bbe5c6fbe3714e8f1a09a14259271eb24792373a70b1e68ffca3"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DinosaurSkeleton.rcst"
-hash = "b87adb0ba39746635a19196d0846a9385f8caa38ebb50882d8e322755674ca8e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/DinosaurSkull.rcst"
-hash = "f75fc9d41ddab2fa6279def4298325028a7f3ad68ce25ff5e32f3a0d1fccdd68"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ElvenPond.rcst"
-hash = "c408183e959d840251ffba8ab813235ce9894988d45c99dd60a1293a6b5575c2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/FallenPalmTree.rcst"
-hash = "8dc9bd3d266e1072d8966d90a584aa53ebbf9202be8f19f0f2e2c006e6ce7c81"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ForestBeacon.rcst"
-hash = "fc1f7e4d59be0bc62e5eb321ef6bc3059dc493df6bd7cfbd1fc99bf6ce565237"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ForestMaze.rcst"
-hash = "84321de911df3e70dd3fc66ce23747e4dbdb9531b11b78f3a0776840cec790c5"
-
-[[files]]
-file = "structures/inactive/structures/overworld/GiganticTree.rcst"
-hash = "b70529ba821604abae207e75d5e351cc5d9805cb8cd4990d181fb40db9bcbdcb"
-
-[[files]]
-file = "structures/inactive/structures/overworld/GiganticTree1.rcst"
-hash = "5a89b1b32a097de45d9e303f128009f2957554348cfa8ab3be6a6e00eda1f6ac"
-
-[[files]]
-file = "structures/inactive/structures/overworld/HillAltarHouse.rcst"
-hash = "c2ae5ce3cb8b7f4b8a1251d37be5307dbf3e77b54fc9956ccd6d8d5ffc10f214"
-
-[[files]]
-file = "structures/inactive/structures/overworld/IceThorn.rcst"
-hash = "60d67688a7d56de08a305f7bdb82d28d65a5d847d5125477bbf9924a40d7d538"
-
-[[files]]
-file = "structures/inactive/structures/overworld/IceThorn1.rcst"
-hash = "fd7a210c007804bd70c2e096bcfa9b58970e9521b98d954b864a73f097b21b40"
-
-[[files]]
-file = "structures/inactive/structures/overworld/IceThorn2.rcst"
-hash = "710c7e5e498563ed1fa9b3f0d58856f3e6408ba2b6d5ea8af016b731a9b51bbc"
-
-[[files]]
-file = "structures/inactive/structures/overworld/IceThorn3.rcst"
-hash = "9b631bd68cbe0dc71940d713bf0591584cb4213df1ef09e6b88cb3da2ee2f71e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/IceThorn4.rcst"
-hash = "a64d12e8f7372175c989f4b24ad90881ca19870f0dedb4d259c74ad77a71d3b2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/JokerTower.rcst"
-hash = "68b86cd9dfdcdda8fed8b8ac281b929d207a848a5b22f4cb645e8d0aa678c1a3"
-
-[[files]]
-file = "structures/inactive/structures/overworld/LonePillars.rcst"
-hash = "324cc9adf5046a5b519ba6f270f46dba423be0acf9e8494ff9937b9b11ab79f0"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MesoMazePagoda.rcst"
-hash = "afc3c328e2bd5611a8f7d38b6390c87921d5a145d53e4066ac3247c981d89cce"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MeteorSite.rcst"
-hash = "3b24f6b8d4e40d050d56c192a164b1d9c7dc16d68a1af6a425b8983133808701"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MonolythHoly.rcst"
-hash = "29ad47535e588fbc3be6ea02fd778da40ccb93563937075eefb7120941f6e33e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MonolythUnholy.rcst"
-hash = "ff8a2b0e1108d153e570ec1b779be4bcf0f5a40dd338a952c10c5cb6fcc83366"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MysticalTree.rcst"
-hash = "a4599145722f3d1fa300559c1d273e9745d60839fa0c5d364cbbfdf40f76fa09"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MysticalTree1.rcst"
-hash = "b85fe477c1a88abc7fb9b6ee635be3dfc67986ec35cc881c4f3fb73ac8a29507"
-
-[[files]]
-file = "structures/inactive/structures/overworld/MysticalTree2.rcst"
-hash = "323a58feeb6fa3e62063fe305b0321ffae62b92b11c640005a8e1ef0b91c25ce"
-
-[[files]]
-file = "structures/inactive/structures/overworld/OldWatchtower.rcst"
-hash = "294f81d848872b125521e509e56ec8f365cf69ba53a0ad57152f37def6c2beb6"
-
-[[files]]
-file = "structures/inactive/structures/overworld/PeacefulCrypt.rcst"
-hash = "73f0502deaf3af44a95995195acc61e7c954710a64b939f9967edd2aabb24598"
-
-[[files]]
-file = "structures/inactive/structures/overworld/PirateChest.rcst"
-hash = "9dc6906802a486523ef5b91d3e8f9caff5a9ad0de06371f0fcf921fb1c087e15"
-
-[[files]]
-file = "structures/inactive/structures/overworld/PirateHideout.rcst"
-hash = "1d05fa15a1e0beb54d78de5f68c591eebadc05e46a99b4587885b35ecfe038de"
-
-[[files]]
-file = "structures/inactive/structures/overworld/PyramidMazePagoda.rcst"
-hash = "f7c8814bb51aa1871466ec6e0046308f856d0833a18c2c6ab3d9efb6fd7b6858"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ShrineSmallAir.rcst"
-hash = "00b6437661c867830d48201025ca692d18cdc513d37f22ec80fb5af6791cd323"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ShrineSmallEarth.rcst"
-hash = "178a1678d6fc47cc09591213d7eced732ad83eb3e38d12f9e90a9ee0f16ea0d2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ShrineSmallFire.rcst"
-hash = "6f5e0d21c3c233cdd3cb8037bd73bc7eee57217451c3ca942234d7603a0d5904"
-
-[[files]]
-file = "structures/inactive/structures/overworld/ShrineSmallWater.rcst"
-hash = "b05c3d0fb18f6bded63ba9355c1b2ad5aa12e422f149af2c8504a6d3b4084cff"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallAbandonedMine.rcst"
-hash = "96f2b86eab6513db42e05f56de6bffa4c56861e9d1edf48ceebb11820ba852d8"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallAbandonedOutpost.rcst"
-hash = "53cff94557d993cfc1a7ed616061c9cccfba385c15a9cc3d39ae46e6efaf26e2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallClockworkSite.rcst"
-hash = "e5458dab5c6f9f6ecc88d1c4bd147940220187b50a07eef7e6331313fcc285ec"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallFortRuins.rcst"
-hash = "8d072779083688c74be0fd6f17eb7e7ad870395940293159b81b80f4a2c26771"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallFortRuinsJapanese.rcst"
-hash = "2ab2983978d345e42a2bc9cff37628074fe0a95db8b94428143f7eac53f23622"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallOutpost.rcst"
-hash = "e7f32047d36ac9277fbc52cb2dc819f94e1253db57d1dc3a836fcedbb5cc0a37"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallPyramid.rcst"
-hash = "390f970279eb75e1fae4f3ac274d91940c027b09f58c3de54310c31b0eeeed63"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallWoodenCottage.rcst"
-hash = "d976d67e0e497f86e9c75109608c330a671869f4a0be8ff79d639cf79353b3d2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallWoodenCottage1.rcst"
-hash = "50f9826e796b9864cbaeeb0a30b5dbb8c0289f228f736f2fcc56aee0cb4fcb2e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SmallWoodenCottage2.rcst"
-hash = "7bd7c9da2b674a6c136fa3ed16d277fe113b3d5fd666ee6bc3a2f6993a86a1c6"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SnakeTemple.rcst"
-hash = "ec35905f36209df832651716be2a8bf9bd893c6ae632f2ed4ec16530e5d69f04"
-
-[[files]]
-file = "structures/inactive/structures/overworld/SpiderPit.rcst"
-hash = "a6fc6d696e717b7b09e34a260c9477f855d0ee3a44bf6208bfada89b06e48a80"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StatueTemple.rcst"
-hash = "c8da16f37271d10205d1ee4d30a7883d021057ec68e1b6a631122965fc50357c"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StoneMaze.rcst"
-hash = "f812c818397eb1f3abfe9c0fe401238e9ca6aa01d7718c3a8976369da7068382"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StoneMazeBig.rcst"
-hash = "cf300757780c4e62c956d5d4583e91245027e5f9fd7a4cb0261b2808d0829f95"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StoneMazeHuge.rcst"
-hash = "3e5f4e64fa7da1663c54013119e33b4edea7eaee702f669089cfc7cccd6e738e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StoneMazePagoda.rcst"
-hash = "98bbe66abd8a7fc027fbbe36912b011b2c257d04405770e5fa6b8edd9826220c"
-
-[[files]]
-file = "structures/inactive/structures/overworld/StoneMazeSmall.rcst"
-hash = "6d8ba747ee00a77503ca6cc067162d4804b606d81e946aeba3c288c9a8311ea0"
-
-[[files]]
-file = "structures/inactive/structures/overworld/TemplePyramid.rcst"
-hash = "ffbcb30c012d195b23b02640fc74277fd1db4866a0379ca937b1215aad02b67f"
-
-[[files]]
-file = "structures/inactive/structures/overworld/TemplePyramid1.rcst"
-hash = "4e6021d93e7492b466a2a22b7f5e3a5511e5fcba4c843ee428ebacaec5aa4282"
-
-[[files]]
-file = "structures/inactive/structures/overworld/TribalJungleHead.rcst"
-hash = "72963e0a1d5ed07034a5b855a4541ed08ed6c87df25797c2fe603e930850bda2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/UndergroundCrypt.rcst"
-hash = "a0f1c79efadca791bd4966a27a726f65e36a9521d68a6f3d5f7197dec058db98"
-
-[[files]]
-file = "structures/inactive/structures/overworld/UndergroundCultChamber.rcst"
-hash = "a8558f63865e9c6ee91c36c52acfc58a1b3a1d6811c48d0964d32ca795406788"
-
-[[files]]
-file = "structures/inactive/structures/overworld/UndergroundTreeoid.rcst"
-hash = "31baa9e739348bc1626c16fa00c740b67700c8156f8a24077a2c0d57ef51d33b"
-
-[[files]]
-file = "structures/inactive/structures/overworld/UnnaturalCrater.rcst"
-hash = "ed78c0f11ae45c3bd1306dd1d64655c5e2fb6c95ba893a2c2e56fe1d1cefabd3"
-
-[[files]]
-file = "structures/inactive/structures/overworld/VeldtBath.rcst"
-hash = "8255cabe87115ce9371740ad25a0e47de6008ee00c69ea955fa3abd00efc5239"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WellShrine.rcst"
-hash = "9d1082ed92fbe7b67386cdf73ba20857d6113a2098772293ee9184c7fb08dc51"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WitchPillars.rcst"
-hash = "a8960e44b82d54cf5641658105af10c6ef98339cfa86910ba4ed98616761ba4a"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WoodThorn.rcst"
-hash = "8ef26a8a909d7f5eec64423adb133be4dcd52abd6f11eb99649e2d66233c313c"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WoodThornBig.rcst"
-hash = "e3ae69e2680f505867c0c7395a076ae980ee94b71e2e7bc8a3d3a94dea663afc"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WoodWallRemains.rcst"
-hash = "c56670e4743a703459778dbb4421b5c7a8b50a70c6f68d9b422501e52594bf77"
-
-[[files]]
-file = "structures/inactive/structures/overworld/WoodenClockTower.rcst"
-hash = "4538b035ebd7f334a54fb15c9abb409ef0457def2d61a6ce8a3c05e55ac96cec"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneBoulder.rcst"
-hash = "b53a755d544df896cf2ced6b74920aba4f7840dd6e13129c10006482699beaa0"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneIceBoulder.rcst"
-hash = "56a27eb5a4514107f5a88226cbe895b82994252464d68e12767c2a3ddadf45f2"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneIceBoulder1.rcst"
-hash = "efa6274e03f24be3960d319546bbe0a27a1aaa5ea4ca52fbbd9047dae76a7498"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneIceBoulder2.rcst"
-hash = "4526b9f71125b49eb6d50a7cc253c26dac7ef23fb7c3d5487ee466612535b402"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneIceBoulder3.rcst"
-hash = "0affaa672c5f216e33be3476fe89fb7146340d804473d26de13cf58c4f0b845e"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StoneLeafMound.rcst"
-hash = "bdb35413a55cc3af51920bd42cb385cc082ad5b50d880e2d3fe9de854f3ef277"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantBoulder.rcst"
-hash = "7cc9c391fa48e1da49a86b01f65e1ccd02daf5999fe58e7d8c2880ba13149b25"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantMound.rcst"
-hash = "5032cc75d88e0703a3e9d1e030b70b6bb3d9f9e34548da871432c302356a43e6"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantMound1.rcst"
-hash = "3242892acfac8eaf69e3f41fb6e22eaf17a06ef8143035f1d2d44135d9204de1"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantMound2.rcst"
-hash = "e071541d7881add7c34b8bb7f73921e7d11a440c9555859c356de9824aff94e3"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantMound3.rcst"
-hash = "981f3e77e83003eacf85e546f4e50bade725814aed728be165af086602cf996f"
-
-[[files]]
-file = "structures/inactive/structures/overworld/frequent/StonePlantMound4.rcst"
-hash = "310ab839c5d3861c6c7a5f9121e660f193472170519a03db8cd5578d23364339"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeClosedDoorway.rcst"
-hash = "99035d2628f34cbf4add27e3c986f15ebd5fdb2f1389b5d921630f32bba3e4aa"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeCorridorCollapse.rcst"
-hash = "15c7f8de5df77f74e6da5c73b68e59ffdcc7353f923abe37d9524209fa4aca1c"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazePath.rcst"
-hash = "d2f69d6721d7a3f186025bca9cdcb3664dcb98c476c9969622a2044e88b1522c"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazePillar.rcst"
-hash = "9f901e3ecebfc43bdc876c2592f0a608e27ebe7d1fe9bffedf39eef4a13517f7"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeScriptureTurn.rcst"
-hash = "799ea1451fbd4b5d8b77f3214765bc7480f61596cb8413efda17db3b77338055"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeSpiderTurn.rcst"
-hash = "c61f70007aec9c8856705f9798763c7fc3405998850be018989d5cf891b34aeb"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeStairCorridor.rcst"
-hash = "3122d81662f83d9eeb598f41ff2261df5f17c73b4a55fe0fa2a51235ab7614b4"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeStairTurn.rcst"
-hash = "b105bc15b046be2a39d2ef12d132aba09619a5e254f78172306cf983a70ba014"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeStorage.rcst"
-hash = "e520cfe8b5f2fe1b4ec1ac27123a556ff27111189cdfea0b3d719958ba685ea7"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/PyramidMazeZombieTable.rcst"
-hash = "d4ac55fe1e93cb55365aea7600bed714e959104a99cc12bb4dd6b9b332f96bb1"
-
-[[files]]
-file = "structures/inactive/structures/pyramid/pyramid_maze.rcmt"
-hash = "e8e22e300081a8234803f3dde6973264e9a7dad25f0796d4b64adba8a5a8b586"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeEndChest.rcst"
-hash = "26e2950f95ed61162c006b3430ffb67020de7bd9f0f6cb55ec78f5f181c21507"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeFountain.rcst"
-hash = "421edd8b48d155a258690daf5de828ab098a0d83231b42cf9d70a9ae9f83439e"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeLitRoom.rcst"
-hash = "0872d8a6cc8153d5038adfcdceed103281e82813ea12595c5f0469633af30ff4"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazePath.rcst"
-hash = "c04ed3dd6fb739870d030ccbd90fe1ef0c37ebaa31bd46790f9712c12a2c4af4"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazePathBig.rcst"
-hash = "29225b1b6028c891f5d66e9d2edb83aa4ae96fe3c69603ebbf048afa89d5cc15"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeShootingRange.rcst"
-hash = "33beedb1f437d7710655c627d8522a8b65b43da1682e93d669de3353e07b6dd0"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeSpiderRoom.rcst"
-hash = "e573927c44c12b5a0802b300898855cc3c5e3387a05e1ced519651cd68efbf91"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/StoneMazeStudy.rcst"
-hash = "11a9f63595a61968a60122693d1ed519220971f75cb082f8c88ea4c71bc62e3d"
-
-[[files]]
-file = "structures/inactive/structures/stone_maze/stone_maze.rcmt"
-hash = "d728d4d9e46e8f87af95e939dad132ea26b88ea96d95dac13be4d23bdacefadd"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageChurch.rcst"
-hash = "a651a3c8b4c55098fe6e34656ad9c6dec027d9fa7405da5f6a7295fc29b2f79a"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageForgeLarge.rcst"
-hash = "ec7f01253631d1764866f36bd657e645392e9ec441e6e76dfe3a8f65b6a50abd"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageGuardTower.rcst"
-hash = "5307cf434ccac1d006cab2a84ecb0f29d86d24ca3cde68c1deec53cff6c4659e"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageHouseRich.rcst"
-hash = "b08c4408bdeb18660471161475af9ae041c49e0819e8fc4228d801c95ee6038c"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageHouseRich1.rcst"
-hash = "91f2cab44d7832b26f08b1a247c4dc61fa6f97c011a3d15fc07aabff986486ee"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageInn.rcst"
-hash = "dd78414a968d917724f45fab06a4f168a5967a8fcfd117a617442f33950aca8e"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageMarketplace.rcst"
-hash = "6ea7e924a3a4a7ee80226afa3b2ac83dc670b189750df11d764633dfadbcd288"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageTriplets.rcst"
-hash = "8970de3ce406919863326f0dc216f3918d29be41ca5cdcdd252e0fe0a0302df3"
-
-[[files]]
-file = "structures/inactive/structures/village/VillageWoodMill.rcst"
-hash = "bd443f13b3c670012ce597df7d096313cae91b1703f9cc81d3f1c4062992f8d9"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaChandlery.rcst"
-hash = "0df7278abe69eefb9cc29c50b89a67f72eaf129befdead74e9ebb0f5b39fd95e"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaGlassworks.rcst"
-hash = "c0b125018e408e93f69b82f9da257e3b42bf2b6e28a985f2be0f3f732cf32df1"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaKitchen.rcst"
-hash = "deb4e9ab9fc0d6e81b783a342efa484f3bc456616b1a27d37e419476e7cf6392"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaLibrary.rcst"
-hash = "0855e6e3f76eb13f06bdbada994fa47d0b28732f8012dac9b63d47ae9277b433"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaStonemason.rcst"
-hash = "77593fc0c5ee1bda25ff83cb46d7c740d1152246c3a4d64afb1b552f63fbe7ae"
-
-[[files]]
-file = "structures/inactive/structures/village/savanna/VillageSavannaTannery.rcst"
-hash = "e5a5b5ce2445dc700941bb0c27965fcd9e2c4038f633aa487807b07f245455f0"
