@@ -1,6 +1,6 @@
 name = "Better Questing Unofficial Tweaker (BQUTweaker)"
 filename = "BQUTweaker-1.3.7.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
