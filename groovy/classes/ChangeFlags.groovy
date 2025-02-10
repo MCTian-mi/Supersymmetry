@@ -23,8 +23,8 @@ import static material.SuSyMaterials.*
 class ChangeFlags {
 	private static void setupSlurries(Material mat) {
 		def property = new FluidProperty()
-		property.enqueueRegistration(SusyFluidStorageKeys.SLURRY, new FluidBuilder())
-		property.enqueueRegistration(SusyFluidStorageKeys.IMPURE_SLURRY, new FluidBuilder())
+		property.enqueueRegistration(SusyFluidStorageKeys.SLURRY, new FluidBuilder().temperature(293))
+		property.enqueueRegistration(SusyFluidStorageKeys.IMPURE_SLURRY, new FluidBuilder().temperature(293))
 
 		mat.setProperty(PropertyKey.FLUID, property)
 	}
@@ -178,6 +178,7 @@ class ChangeFlags {
         IndiumGalliumPhosphide.setFormula("InGaP2", true);
         NetherAir.setFormula("(N78O21Ar9)24(CO2)2(H2S)(SO2)", true);
         Diatomite.setFormula("(SiO2)8(Fe2O3)(Al2O3)", true);
+        Pollucite.setFormula("(Cs,Na)2Al2Si4O12(H2O)2", true);
 
         // Ore Processing
         

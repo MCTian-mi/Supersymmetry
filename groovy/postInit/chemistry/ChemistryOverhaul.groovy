@@ -2778,11 +2778,11 @@ CSTR.recipeBuilder()
 
 // Phosphorus trichloride
 ROASTER.recipeBuilder()
-        .inputs(ore('dustAnyPurityPhosphorus') * 4)
-        .fluidInputs(fluid('chlorine') * 12000)
-        .fluidOutputs(fluid('phosphorus_trichloride') * 2000)
-        .outputs(metaitem('dustPhosphorusPentachloride') * 12)
-        .duration(300)
+        .inputs(ore('dustAnyPurityPhosphorus') * 2)
+        .fluidInputs(fluid('chlorine') * 8000)
+        .fluidOutputs(fluid('phosphorus_trichloride') * 1000)
+        .outputs(metaitem('dustPhosphorusPentachloride') * 6)
+        .duration(150)
         .EUt(30)
         .buildAndRegister()
 
@@ -3881,4 +3881,52 @@ MIXER.recipeBuilder()
         .fluidOutputs(fluid('nitration_mixture') * 2000)
         .EUt(30)
         .duration(160)
+        .buildAndRegister()
+
+// Liquid Ice * 144
+mods.gregtech.extractor.removeByInput(30, [item('minecraft:ice')], null)
+mods.gregtech.extractor.removeByInput(30, [metaitem('dustIce')], null)
+
+FLUID_EXTRACTOR.recipeBuilder()
+        .inputs(item('minecraft:ice'))
+        .fluidOutputs(fluid('ice') * 1000)
+        .duration(6)
+        .EUt(30)
+        .buildAndRegister()
+
+FLUID_EXTRACTOR.recipeBuilder()
+        .inputs(metaitem('dustIce'))
+        .fluidOutputs(fluid('ice') * 1000)
+        .duration(6)
+        .EUt(30)
+        .buildAndRegister()
+
+// Water * 144
+mods.gregtech.fluid_heater.removeByInput(4, [metaitem('circuit.integrated').withNbt(['Configuration': 1])], [fluid('ice') * 144])
+
+FLUID_HEATER.recipeBuilder()
+        .fluidInputs(fluid('ice') * 1000)
+        .fluidOutputs(fluid('water') * 1000)
+        .duration(220)
+        .EUt(4)
+        .buildAndRegister()
+
+// Ice * 1
+mods.gregtech.fluid_solidifier.removeByInput(7, [metaitem('shape.mold.block')], [fluid('ice') * 144])
+
+mods.gregtech.fluid_solidifier.recipeBuilder()
+        .fluidInputs(fluid('ice') * 1000)
+        .notConsumable(metaitem('shape.mold.block'))
+        .outputs(item('minecraft:ice'))
+        .duration(6)
+        .EUt(7)
+        .buildAndRegister()
+
+// Iron III Nitrate Solution
+BR.recipeBuilder()
+        .inputs(metaitem('dustIronIiiHydroxide') * 7)
+        .fluidInputs(fluid('nitric_acid') * 3000)
+        .fluidOutputs(fluid('iron_iii_nitrate_solution') * 3000)
+        .duration(100)
+        .EUt(30)
         .buildAndRegister()

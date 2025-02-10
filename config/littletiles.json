@@ -10,7 +10,7 @@
     "allowFlowingWater": true,
     "allowFlowingLava": true,
     "storagePerPixel": 1.0,
-    "enableBed": true,
+    "enableBed": false,
     "enableAnimationCollision": true,
     "enableCollisionMotion": true,
     "dyeVolume": 2.0,

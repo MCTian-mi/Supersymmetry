@@ -231,7 +231,7 @@ public class FirstDegreeMaterials {
         PigIron.setFormula("(Fe)(?)", true)
 
         GreenCoke = new Material.Builder(8116, SuSyUtility.susyId('green_coke'))
-                .gem(1, 2000).ore(2, 1)
+                .gem(1, 2000)
                 .color(0x424a34).iconSet(LIGNITE)
                 .components(Carbon)
                 .flags(FLAMMABLE, NO_SMELTING, NO_SMASHING, MORTAR_GRINDABLE)
@@ -2609,7 +2609,17 @@ public class FirstDegreeMaterials {
                 .build()
                 .setFormula("(?)(Mn(NO3)2)(H2O)", true)
 
-        //FREE IDs: 8484-8485
+        SodiumHydride = new Material.Builder(8484, SuSyUtility.susyId('sodium_hydride'))
+                .dust()
+                .components(Sodium, Hydrogen)
+                .colorAverage()
+                .build();
+
+        SodiumBorohydride = new Material.Builder(8485, SuSyUtility.susyId('sodium_borohydride'))
+                .dust()
+                .components(Sodium, Boron, Hydrogen * 4)
+                .colorAverage()
+                .build();
 
         UltramaficTailingSlurry = new Material.Builder(8486, SuSyUtility.susyId('ultramafic_tailing_slurry'))
                 .liquid()
@@ -2721,7 +2731,7 @@ public class FirstDegreeMaterials {
                 .color(0xe6c532)
                 .build();
 
-        AmmoniumHexachloroplatinate.setFormula("(NH4)2PtCl6", true)
+        AmmoniumHexachloroplatinate.setFormula("(NH4)2[PtCl6]", true)
 
         DilutedCopperSulfateSolution = new Material.Builder(8504, SuSyUtility.susyId('diluted_copper_sulfate_solution'))
                 .liquid()
@@ -3594,5 +3604,17 @@ public class FirstDegreeMaterials {
                 .components(LithiumNitrate * 2, Water * 1)
                 .colorAverage()
                 .build()
+
+        ZincCarbonate = new Material.Builder(8641, SuSyUtility.susyId("zinc_carbonate"))
+                .dust()
+                .components(Zinc, Carbon, Oxygen * 3)
+                .colorAverage()
+                .build();
+
+        CopperCarbonate = new Material.Builder(8642, SuSyUtility.susyId("copper_carbonate"))
+                .dust()
+                .components(Copper, Carbon, Oxygen * 3)
+                .colorAverage()
+                .build();
     }
 }
