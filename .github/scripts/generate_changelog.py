@@ -531,7 +531,10 @@ def generate_breaking_changes_section(prs):
     markdown = "## Breaking Changes\n\n"
     markdown += "> **Heads up:** this update may break existing setups, worlds, or saves. Read before updating!\n\n"
     for attribution, changes in entries:
-        markdown += f"### {attribution}\n{changes}\n\n"
+        # Render the PR as a top-level bullet, with its breaking-change
+        # content indented beneath it as a nested markdown list.
+        indented = "\n".join("   " + line for line in changes.splitlines())
+        markdown += f"-  {attribution}\n\n{indented}\n\n"
     return markdown
 
 
